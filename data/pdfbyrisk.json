@@ -1,0 +1,6561 @@
+[
+    {
+        "id": 3,
+        "riskid": 1,
+        "status": "active",
+        "riskname": "Academic Testing Centers",
+        "lang": "E"
+    },
+    {
+        "id": 68,
+        "riskid": 68,
+        "status": "active",
+        "riskname": "Accesoires et pièces d'auto-Fabrication",
+        "lang": "F"
+    },
+    {
+        "id": 923,
+        "riskid": 923,
+        "status": "active",
+        "riskname": "Accessoires pour cheveux et perruques (sans assurance contre le Crime)",
+        "lang": "F"
+    },
+    {
+        "id": 1,
+        "riskid": 3,
+        "status": "active",
+        "riskname": "Accident Prevention Consultants",
+        "lang": "E"
+    },
+    {
+        "id": 5,
+        "riskid": 5,
+        "status": "active",
+        "riskname": "Acoustical & Insulation Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 48,
+        "riskid": 48,
+        "status": "active",
+        "riskname": "Acrchitectes paysagers (Assurance bureau seulement)",
+        "lang": "F"
+    },
+    {
+        "id": 8,
+        "riskid": 8,
+        "status": "active",
+        "riskname": "Acuponcteurs",
+        "lang": "F"
+    },
+    {
+        "id": 7,
+        "riskid": 7,
+        "status": "active",
+        "riskname": "Acupuncturists",
+        "lang": "E"
+    },
+    {
+        "id": 905,
+        "riskid": 905,
+        "status": "active",
+        "riskname": "Adoucisseur d'eau-contracteurs",
+        "lang": "F"
+    },
+    {
+        "id": 9,
+        "riskid": 9,
+        "status": "active",
+        "riskname": "Adult Daycare Centers",
+        "lang": "E"
+    },
+    {
+        "id": 11,
+        "riskid": 11,
+        "status": "active",
+        "riskname": "Adult Video Stores",
+        "lang": "E"
+    },
+    {
+        "id": 638,
+        "riskid": 638,
+        "status": "active",
+        "riskname": "Affichage et publicité extérieurs",
+        "lang": "F"
+    },
+    {
+        "id": 344,
+        "riskid": 344,
+        "status": "active",
+        "riskname": "Agences de placement",
+        "lang": "F"
+    },
+    {
+        "id": 843,
+        "riskid": 843,
+        "status": "active",
+        "riskname": "Agences de recrutement - temporaire",
+        "lang": "F"
+    },
+    {
+        "id": 797,
+        "riskid": 797,
+        "status": "active",
+        "riskname": "Agences de recrutement d`employés",
+        "lang": "F"
+    },
+    {
+        "id": 879,
+        "riskid": 879,
+        "status": "active",
+        "riskname": "Agences de voyage",
+        "lang": "F"
+    },
+    {
+        "id": 496,
+        "riskid": 496,
+        "status": "active",
+        "riskname": "Agents d`assurance",
+        "lang": "F"
+    },
+    {
+        "id": 721,
+        "riskid": 721,
+        "status": "active",
+        "riskname": "Agents d`immeuble (bureaux)",
+        "lang": "F"
+    },
+    {
+        "id": 560,
+        "riskid": 560,
+        "status": "active",
+        "riskname": "Agents et représentants manufacturiers",
+        "lang": "F"
+    },
+    {
+        "id": 13,
+        "riskid": 13,
+        "status": "active",
+        "riskname": "Air Compressor Repair Services",
+        "lang": "E"
+    },
+    {
+        "id": 15,
+        "riskid": 15,
+        "status": "active",
+        "riskname": "Air Conditioner Dealers",
+        "lang": "E"
+    },
+    {
+        "id": 17,
+        "riskid": 17,
+        "status": "active",
+        "riskname": "Air Conditioning Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 19,
+        "riskid": 19,
+        "status": "active",
+        "riskname": "Air Conditioning Equipment Manufacturing",
+        "lang": "E"
+    },
+    {
+        "id": 21,
+        "riskid": 21,
+        "status": "active",
+        "riskname": "Alarm System Manufacturing & Distribution",
+        "lang": "E"
+    },
+    {
+        "id": 312,
+        "riskid": 312,
+        "status": "active",
+        "riskname": "Allées et entrées de béton",
+        "lang": "F"
+    },
+    {
+        "id": 23,
+        "riskid": 23,
+        "status": "active",
+        "riskname": "Alteration & Remodeling Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 25,
+        "riskid": 25,
+        "status": "active",
+        "riskname": "Alternative Dispute Resolution Firms",
+        "lang": "E"
+    },
+    {
+        "id": 27,
+        "riskid": 27,
+        "status": "active",
+        "riskname": "Alternative Health Centers/Practitioners",
+        "lang": "E"
+    },
+    {
+        "id": 476,
+        "riskid": 476,
+        "status": "active",
+        "riskname": "Ameublement de maison- magasins",
+        "lang": "F"
+    },
+    {
+        "id": 424,
+        "riskid": 424,
+        "status": "active",
+        "riskname": "Ameublement et fournitures de bureau-Grossiste",
+        "lang": "F"
+    },
+    {
+        "id": 422,
+        "riskid": 422,
+        "status": "active",
+        "riskname": "ameublement et meubles usagés-marchands",
+        "lang": "F"
+    },
+    {
+        "id": 30,
+        "riskid": 30,
+        "status": "active",
+        "riskname": "Amusement- Jeux Midway Games exclus",
+        "lang": "F"
+    },
+    {
+        "id": 29,
+        "riskid": 29,
+        "status": "active",
+        "riskname": "Amusements - Excl. midway",
+        "lang": "E"
+    },
+    {
+        "id": 31,
+        "riskid": 31,
+        "status": "active",
+        "riskname": "Amusements - including Inflatables ",
+        "lang": "E"
+    },
+    {
+        "id": 33,
+        "riskid": 33,
+        "status": "active",
+        "riskname": "Animal Services",
+        "lang": "E"
+    },
+    {
+        "id": 670,
+        "riskid": 670,
+        "status": "active",
+        "riskname": "Animaleries",
+        "lang": "F"
+    },
+    {
+        "id": 208,
+        "riskid": 208,
+        "status": "active",
+        "riskname": "Animaux - cliniques",
+        "lang": "F"
+    },
+    {
+        "id": 36,
+        "riskid": 36,
+        "status": "active",
+        "riskname": "Antiquaires",
+        "lang": "F"
+    },
+    {
+        "id": 35,
+        "riskid": 35,
+        "status": "active",
+        "riskname": "Antique Stores",
+        "lang": "E"
+    },
+    {
+        "id": 37,
+        "riskid": 37,
+        "status": "active",
+        "riskname": "Apartment Buildings (2 story & under)",
+        "lang": "E"
+    },
+    {
+        "id": 468,
+        "riskid": 468,
+        "status": "active",
+        "riskname": "Appareils auditifs-fournisseurs",
+        "lang": "F"
+    },
+    {
+        "id": 332,
+        "riskid": 332,
+        "status": "active",
+        "riskname": "Appareils électriques-Grossistes",
+        "lang": "F"
+    },
+    {
+        "id": 330,
+        "riskid": 330,
+        "status": "active",
+        "riskname": "Appareils électriques-Vente en gros",
+        "lang": "F"
+    },
+    {
+        "id": 42,
+        "riskid": 42,
+        "status": "active",
+        "riskname": "Appareils ménagers-Détaillants",
+        "lang": "F"
+    },
+    {
+        "id": 606,
+        "riskid": 606,
+        "status": "active",
+        "riskname": "Appels d`offres municipalités",
+        "lang": "F"
+    },
+    {
+        "id": 39,
+        "riskid": 39,
+        "status": "active",
+        "riskname": "Appliance Repair Services - Small",
+        "lang": "E"
+    },
+    {
+        "id": 41,
+        "riskid": 41,
+        "status": "active",
+        "riskname": "Appliance Stor Es - Household",
+        "lang": "E"
+    },
+    {
+        "id": 43,
+        "riskid": 43,
+        "status": "active",
+        "riskname": "Appliance, Radio & TV Wholesalers",
+        "lang": "E"
+    },
+    {
+        "id": 46,
+        "riskid": 46,
+        "status": "active",
+        "riskname": "Arboristes, chirurgie d'arbres",
+        "lang": "F"
+    },
+    {
+        "id": 45,
+        "riskid": 45,
+        "status": "active",
+        "riskname": "Arborists or Tree Surgeons",
+        "lang": "E"
+    },
+    {
+        "id": 881,
+        "riskid": 881,
+        "status": "active",
+        "riskname": "Arbres et arbustes-entretien",
+        "lang": "F"
+    },
+    {
+        "id": 512,
+        "riskid": 512,
+        "status": "active",
+        "riskname": "Architectes paysagistes (asurance bureau seulement)",
+        "lang": "F"
+    },
+    {
+        "id": 47,
+        "riskid": 47,
+        "status": "active",
+        "riskname": "Architects & Landscape (office only)",
+        "lang": "E"
+    },
+    {
+        "id": 144,
+        "riskid": 144,
+        "status": "active",
+        "riskname": "Armoires et cabinets de cuisine",
+        "lang": "F"
+    },
+    {
+        "id": 576,
+        "riskid": 576,
+        "status": "active",
+        "riskname": "Armoires média-ensembles média",
+        "lang": "F"
+    },
+    {
+        "id": 458,
+        "riskid": 458,
+        "status": "active",
+        "riskname": "Armurier et marchands d`armes à feu (fabricants exclus)",
+        "lang": "F"
+    },
+    {
+        "id": 50,
+        "riskid": 50,
+        "status": "active",
+        "riskname": "Aromathérapeutes",
+        "lang": "F"
+    },
+    {
+        "id": 49,
+        "riskid": 49,
+        "status": "active",
+        "riskname": "Aromatherapists",
+        "lang": "E"
+    },
+    {
+        "id": 819,
+        "riskid": 819,
+        "status": "active",
+        "riskname": "Arpenteurs géomètres et architectes-firmes",
+        "lang": "F"
+    },
+    {
+        "id": 51,
+        "riskid": 51,
+        "status": "active",
+        "riskname": "Art Appraisers",
+        "lang": "E"
+    },
+    {
+        "id": 53,
+        "riskid": 53,
+        "status": "active",
+        "riskname": "Art Conservators",
+        "lang": "E"
+    },
+    {
+        "id": 55,
+        "riskid": 55,
+        "status": "active",
+        "riskname": "Art Galleries",
+        "lang": "E"
+    },
+    {
+        "id": 57,
+        "riskid": 57,
+        "status": "active",
+        "riskname": "Art Studios - Commercial",
+        "lang": "E"
+    },
+    {
+        "id": 510,
+        "riskid": 510,
+        "status": "active",
+        "riskname": "Articles de cuisine et de maison-Détaillant",
+        "lang": "F"
+    },
+    {
+        "id": 342,
+        "riskid": 342,
+        "status": "active",
+        "riskname": "Ascenseurs et appareils de levage-contracteurs",
+        "lang": "F"
+    },
+    {
+        "id": 895,
+        "riskid": 895,
+        "status": "active",
+        "riskname": "Aspirateurs-Grossistes",
+        "lang": "F"
+    },
+    {
+        "id": 59,
+        "riskid": 59,
+        "status": "active",
+        "riskname": "Assisted Living Facilities",
+        "lang": "E"
+    },
+    {
+        "id": 126,
+        "riskid": 126,
+        "status": "active",
+        "riskname": "Assurance chantier-Immeubles 1 à 5 logis",
+        "lang": "F"
+    },
+    {
+        "id": 877,
+        "riskid": 877,
+        "status": "active",
+        "riskname": "Assurance transport/ cargo intérieur",
+        "lang": "F"
+    },
+    {
+        "id": 70,
+        "riskid": 70,
+        "status": "active",
+        "riskname": "Atelier d'alignement d`automobiles ",
+        "lang": "F"
+    },
+    {
+        "id": 326,
+        "riskid": 326,
+        "status": "active",
+        "riskname": "Atelier de réparations d'appareils électriques et électroniques",
+        "lang": "F"
+    },
+    {
+        "id": 552,
+        "riskid": 552,
+        "status": "active",
+        "riskname": "Atelier d`usinage",
+        "lang": "F"
+    },
+    {
+        "id": 713,
+        "riskid": 713,
+        "status": "active",
+        "riskname": "Atelier réparation de radios d`autos",
+        "lang": "F"
+    },
+    {
+        "id": 58,
+        "riskid": 58,
+        "status": "active",
+        "riskname": "Ateliers d'art commerciaux",
+        "lang": "F"
+    },
+    {
+        "id": 61,
+        "riskid": 61,
+        "status": "active",
+        "riskname": "Auctioneers",
+        "lang": "E"
+    },
+    {
+        "id": 63,
+        "riskid": 63,
+        "status": "active",
+        "riskname": "Audiologists",
+        "lang": "E"
+    },
+    {
+        "id": 64,
+        "riskid": 64,
+        "status": "active",
+        "riskname": "Audiologues",
+        "lang": "F"
+    },
+    {
+        "id": 65,
+        "riskid": 65,
+        "status": "active",
+        "riskname": "Audiometric Testing Companies",
+        "lang": "E"
+    },
+    {
+        "id": 67,
+        "riskid": 67,
+        "status": "active",
+        "riskname": "Auto Accessories & Parts Manufacturing",
+        "lang": "E"
+    },
+    {
+        "id": 69,
+        "riskid": 69,
+        "status": "active",
+        "riskname": "Auto Alignment",
+        "lang": "E"
+    },
+    {
+        "id": 71,
+        "riskid": 71,
+        "status": "active",
+        "riskname": "Auto Body Shops",
+        "lang": "E"
+    },
+    {
+        "id": 73,
+        "riskid": 73,
+        "status": "active",
+        "riskname": "Auto Dealers",
+        "lang": "E"
+    },
+    {
+        "id": 75,
+        "riskid": 75,
+        "status": "active",
+        "riskname": "Auto Diagnostic Centers",
+        "lang": "E"
+    },
+    {
+        "id": 77,
+        "riskid": 77,
+        "status": "active",
+        "riskname": "Auto Parts and Accessories",
+        "lang": "E"
+    },
+    {
+        "id": 79,
+        "riskid": 79,
+        "status": "active",
+        "riskname": "Auto Parts Wholesalers (new parts only)",
+        "lang": "E"
+    },
+    {
+        "id": 81,
+        "riskid": 81,
+        "status": "active",
+        "riskname": "Auto Repair & Service Equipment - Wholesale",
+        "lang": "E"
+    },
+    {
+        "id": 83,
+        "riskid": 83,
+        "status": "active",
+        "riskname": "Auto Repair Shops (see specific occ.)",
+        "lang": "E"
+    },
+    {
+        "id": 85,
+        "riskid": 85,
+        "status": "active",
+        "riskname": "Auto Towing Service",
+        "lang": "E"
+    },
+    {
+        "id": 87,
+        "riskid": 87,
+        "status": "active",
+        "riskname": "Auto Wrecking (for scrap)",
+        "lang": "E"
+    },
+    {
+        "id": 524,
+        "riskid": 524,
+        "status": "active",
+        "riskname": "Avocats (assurance erreur et omission exclue)",
+        "lang": "F"
+    },
+    {
+        "id": 89,
+        "riskid": 89,
+        "status": "active",
+        "riskname": "Bakeries - Baking & Selling - Retail",
+        "lang": "E"
+    },
+    {
+        "id": 91,
+        "riskid": 91,
+        "status": "active",
+        "riskname": "Bakery Products & Bread Manufacturing",
+        "lang": "E"
+    },
+    {
+        "id": 488,
+        "riskid": 488,
+        "status": "active",
+        "riskname": "Bar laitiers (aucune cuisson requise)",
+        "lang": "F"
+    },
+    {
+        "id": 93,
+        "riskid": 93,
+        "status": "active",
+        "riskname": "Barber Shops",
+        "lang": "E"
+    },
+    {
+        "id": 829,
+        "riskid": 829,
+        "status": "active",
+        "riskname": "Bars et tavernes-Revenus maximum 1 million $",
+        "lang": "F"
+    },
+    {
+        "id": 262,
+        "riskid": 262,
+        "status": "active",
+        "riskname": "Bars laitiers (aucune cuisson sur les lieux)",
+        "lang": "F"
+    },
+    {
+        "id": 96,
+        "riskid": 96,
+        "status": "active",
+        "riskname": "Batteries, pneus, accessoires et pièces d`auto-Vente au détail",
+        "lang": "F"
+    },
+    {
+        "id": 95,
+        "riskid": 95,
+        "status": "active",
+        "riskname": "Batteries, Tires & Auto Accessories - Retail",
+        "lang": "E"
+    },
+    {
+        "id": 97,
+        "riskid": 97,
+        "status": "active",
+        "riskname": "Beauty Salons-Excl, Professional Liability",
+        "lang": "E"
+    },
+    {
+        "id": 228,
+        "riskid": 228,
+        "status": "active",
+        "riskname": "Béton-entrepreneurs",
+        "lang": "F"
+    },
+    {
+        "id": 250,
+        "riskid": 250,
+        "status": "active",
+        "riskname": "Beurreries",
+        "lang": "F"
+    },
+    {
+        "id": 528,
+        "riskid": 528,
+        "status": "active",
+        "riskname": "Bibliothèques",
+        "lang": "F"
+    },
+    {
+        "id": 99,
+        "riskid": 99,
+        "status": "active",
+        "riskname": "Bicycle Repair Shops - no rental",
+        "lang": "E"
+    },
+    {
+        "id": 101,
+        "riskid": 101,
+        "status": "active",
+        "riskname": "Bicycle Shops",
+        "lang": "E"
+    },
+    {
+        "id": 508,
+        "riskid": 508,
+        "status": "active",
+        "riskname": "Bijouteries - Formule Risques désignés excluant assurance contre le Crime",
+        "lang": "F"
+    },
+    {
+        "id": 103,
+        "riskid": 103,
+        "status": "active",
+        "riskname": "Blueprint & Photocopy Service",
+        "lang": "E"
+    },
+    {
+        "id": 105,
+        "riskid": 105,
+        "status": "active",
+        "riskname": "Boarding & Rooming Houses",
+        "lang": "E"
+    },
+    {
+        "id": 107,
+        "riskid": 107,
+        "status": "active",
+        "riskname": "Body Piercing or Ear Piercing Studios",
+        "lang": "E"
+    },
+    {
+        "id": 109,
+        "riskid": 109,
+        "status": "active",
+        "riskname": "Boiler & Machinery (Questionnaire)",
+        "lang": "E"
+    },
+    {
+        "id": 931,
+        "riskid": 931,
+        "status": "active",
+        "riskname": "Bois de chauffage-marchand",
+        "lang": "F"
+    },
+    {
+        "id": 111,
+        "riskid": 111,
+        "status": "active",
+        "riskname": "Book Stor Es - New",
+        "lang": "E"
+    },
+    {
+        "id": 113,
+        "riskid": 113,
+        "status": "active",
+        "riskname": "Bookbinding & Related Work",
+        "lang": "E"
+    },
+    {
+        "id": 115,
+        "riskid": 115,
+        "status": "active",
+        "riskname": "Bookkeeping - Auditing - Accounting",
+        "lang": "E"
+    },
+    {
+        "id": 117,
+        "riskid": 117,
+        "status": "active",
+        "riskname": "Boutiques",
+        "lang": "E"
+    },
+    {
+        "id": 118,
+        "riskid": 118,
+        "status": "active",
+        "riskname": "Boutiques / magasins specialisés",
+        "lang": "F"
+    },
+    {
+        "id": 102,
+        "riskid": 102,
+        "status": "active",
+        "riskname": "Boutiques ateliers de vélos",
+        "lang": "F"
+    },
+    {
+        "id": 436,
+        "riskid": 436,
+        "status": "active",
+        "riskname": "Boutiques cadeaux et nouveautés",
+        "lang": "F"
+    },
+    {
+        "id": 438,
+        "riskid": 438,
+        "status": "active",
+        "riskname": "Boutiques cadeaux et souvenirs",
+        "lang": "F"
+    },
+    {
+        "id": 302,
+        "riskid": 302,
+        "status": "active",
+        "riskname": "Boutiques de rideaux, draperie et tissus",
+        "lang": "F"
+    },
+    {
+        "id": 787,
+        "riskid": 787,
+        "status": "active",
+        "riskname": "Boutiques de souvenirs",
+        "lang": "F"
+    },
+    {
+        "id": 216,
+        "riskid": 216,
+        "status": "active",
+        "riskname": "Boutiques vêtements usagés - Fripperies",
+        "lang": "F"
+    },
+    {
+        "id": 119,
+        "riskid": 119,
+        "status": "active",
+        "riskname": "Bowling Lanes",
+        "lang": "E"
+    },
+    {
+        "id": 121,
+        "riskid": 121,
+        "status": "active",
+        "riskname": "Brake Services - Auto",
+        "lang": "E"
+    },
+    {
+        "id": 123,
+        "riskid": 123,
+        "status": "active",
+        "riskname": "Bridge (small) Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 516,
+        "riskid": 516,
+        "status": "active",
+        "riskname": "Buanderies",
+        "lang": "F"
+    },
+    {
+        "id": 220,
+        "riskid": 220,
+        "status": "active",
+        "riskname": "Buanderies et laveries automatiques",
+        "lang": "F"
+    },
+    {
+        "id": 518,
+        "riskid": 518,
+        "status": "active",
+        "riskname": "Buanderies-Laveries et machines payantes",
+        "lang": "F"
+    },
+    {
+        "id": 125,
+        "riskid": 125,
+        "status": "active",
+        "riskname": "Builders Risk - COC - 1-5 dwellings",
+        "lang": "E"
+    },
+    {
+        "id": 127,
+        "riskid": 127,
+        "status": "active",
+        "riskname": "Building Cleaning Services",
+        "lang": "E"
+    },
+    {
+        "id": 129,
+        "riskid": 129,
+        "status": "active",
+        "riskname": "Building Contractors - Prefab Metal or Wood (under 2 story)",
+        "lang": "E"
+    },
+    {
+        "id": 131,
+        "riskid": 131,
+        "status": "active",
+        "riskname": "Building Equipment Installation Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 133,
+        "riskid": 133,
+        "status": "active",
+        "riskname": "Building Manufacturers - Prefab Metal or Wood",
+        "lang": "E"
+    },
+    {
+        "id": 135,
+        "riskid": 135,
+        "status": "active",
+        "riskname": "Building Materials Wholesalers",
+        "lang": "E"
+    },
+    {
+        "id": 137,
+        "riskid": 137,
+        "status": "active",
+        "riskname": "Bus Companies - No Auto",
+        "lang": "E"
+    },
+    {
+        "id": 139,
+        "riskid": 139,
+        "status": "active",
+        "riskname": "Business Services NOC",
+        "lang": "E"
+    },
+    {
+        "id": 141,
+        "riskid": 141,
+        "status": "active",
+        "riskname": "Cabinet Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 143,
+        "riskid": 143,
+        "status": "active",
+        "riskname": "Cabinet Stor Es - Kitchen",
+        "lang": "E"
+    },
+    {
+        "id": 280,
+        "riskid": 280,
+        "status": "active",
+        "riskname": "Cabinets de dentistes-(assurance bureau et lieux physiques)",
+        "lang": "F"
+    },
+    {
+        "id": 26,
+        "riskid": 26,
+        "status": "active",
+        "riskname": "Cabinets de médiation, arbitrage et résolution de conflits",
+        "lang": "F"
+    },
+    {
+        "id": 145,
+        "riskid": 145,
+        "status": "active",
+        "riskname": "Cafeterias",
+        "lang": "E"
+    },
+    {
+        "id": 146,
+        "riskid": 146,
+        "status": "active",
+        "riskname": "Caféterias",
+        "lang": "F"
+    },
+    {
+        "id": 745,
+        "riskid": 745,
+        "status": "active",
+        "riskname": "Caisses d`épargnes et crédit (assurance contre le Crime non disponible)",
+        "lang": "F"
+    },
+    {
+        "id": 252,
+        "riskid": 252,
+        "status": "active",
+        "riskname": "Caisses populaires-(sans assurance Crime)",
+        "lang": "F"
+    },
+    {
+        "id": 147,
+        "riskid": 147,
+        "status": "active",
+        "riskname": "Calculating & Statistical Services",
+        "lang": "E"
+    },
+    {
+        "id": 149,
+        "riskid": 149,
+        "status": "active",
+        "riskname": "Camera & Photo Supply Stor Es",
+        "lang": "E"
+    },
+    {
+        "id": 891,
+        "riskid": 891,
+        "status": "active",
+        "riskname": "Camionnage routier",
+        "lang": "F"
+    },
+    {
+        "id": 889,
+        "riskid": 889,
+        "status": "active",
+        "riskname": "Camions lourds-service de réparation (n'incluant pas camions transportant bois de coupe et longue distances)",
+        "lang": "F"
+    },
+    {
+        "id": 151,
+        "riskid": 151,
+        "status": "active",
+        "riskname": "Camper & Travel Trailer Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 153,
+        "riskid": 153,
+        "status": "active",
+        "riskname": "Campgrounds - RV's & Trailers",
+        "lang": "E"
+    },
+    {
+        "id": 155,
+        "riskid": 155,
+        "status": "active",
+        "riskname": "Candy Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 157,
+        "riskid": 157,
+        "status": "active",
+        "riskname": "Candy Stor Es",
+        "lang": "E"
+    },
+    {
+        "id": 159,
+        "riskid": 159,
+        "status": "active",
+        "riskname": "Candy Wholesalers",
+        "lang": "E"
+    },
+    {
+        "id": 161,
+        "riskid": 161,
+        "status": "active",
+        "riskname": "Canners - Fruit & Vegetable",
+        "lang": "E"
+    },
+    {
+        "id": 164,
+        "riskid": 164,
+        "status": "active",
+        "riskname": "Cannevas et produits dérivés-fabricants",
+        "lang": "F"
+    },
+    {
+        "id": 163,
+        "riskid": 163,
+        "status": "active",
+        "riskname": "Canvas Products Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 165,
+        "riskid": 165,
+        "status": "active",
+        "riskname": "Car Rental & Leasing-No Auto",
+        "lang": "E"
+    },
+    {
+        "id": 167,
+        "riskid": 167,
+        "status": "active",
+        "riskname": "Car Washes",
+        "lang": "E"
+    },
+    {
+        "id": 170,
+        "riskid": 170,
+        "status": "active",
+        "riskname": "Carburateurs, pistons- valves et segments-Fabricants",
+        "lang": "F"
+    },
+    {
+        "id": 169,
+        "riskid": 169,
+        "status": "active",
+        "riskname": "Carburetor, Piston, Ring & Valve Manufacturer",
+        "lang": "E"
+    },
+    {
+        "id": 598,
+        "riskid": 598,
+        "status": "active",
+        "riskname": "Cargaison et transport",
+        "lang": "F"
+    },
+    {
+        "id": 171,
+        "riskid": 171,
+        "status": "active",
+        "riskname": "Carpentry Work Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 173,
+        "riskid": 173,
+        "status": "active",
+        "riskname": "Carpet & Rug Dealers",
+        "lang": "E"
+    },
+    {
+        "id": 175,
+        "riskid": 175,
+        "status": "active",
+        "riskname": "Carpet & Rug Laying Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 177,
+        "riskid": 177,
+        "status": "active",
+        "riskname": "Carpet & Rug Repairing Services",
+        "lang": "E"
+    },
+    {
+        "id": 179,
+        "riskid": 179,
+        "status": "active",
+        "riskname": "Carpet & Rug Wholesalers",
+        "lang": "E"
+    },
+    {
+        "id": 181,
+        "riskid": 181,
+        "status": "active",
+        "riskname": "Carpet, Rug & Upholstery Cleaners",
+        "lang": "E"
+    },
+    {
+        "id": 448,
+        "riskid": 448,
+        "status": "active",
+        "riskname": "Carrières de gravel",
+        "lang": "F"
+    },
+    {
+        "id": 739,
+        "riskid": 739,
+        "status": "active",
+        "riskname": "Carrières de sable et gravelle",
+        "lang": "F"
+    },
+    {
+        "id": 885,
+        "riskid": 885,
+        "status": "active",
+        "riskname": "Carrosserier d'autobus et camions",
+        "lang": "F"
+    },
+    {
+        "id": 183,
+        "riskid": 183,
+        "status": "active",
+        "riskname": "Caterers",
+        "lang": "E"
+    },
+    {
+        "id": 185,
+        "riskid": 185,
+        "status": "active",
+        "riskname": "Cemeteries - Excl. Professionals",
+        "lang": "E"
+    },
+    {
+        "id": 284,
+        "riskid": 284,
+        "status": "active",
+        "riskname": "Centre de diagnostique auto",
+        "lang": "F"
+    },
+    {
+        "id": 76,
+        "riskid": 76,
+        "status": "active",
+        "riskname": "Centre de diagnostique auto",
+        "lang": "F"
+    },
+    {
+        "id": 775,
+        "riskid": 775,
+        "status": "active",
+        "riskname": "Centres commerciaux",
+        "lang": "F"
+    },
+    {
+        "id": 66,
+        "riskid": 66,
+        "status": "active",
+        "riskname": "Centres d' évaluation audiométrique",
+        "lang": "F"
+    },
+    {
+        "id": 2,
+        "riskid": 2,
+        "status": "active",
+        "riskname": "Centres d' évaluation perfomance académique",
+        "lang": "F"
+    },
+    {
+        "id": 72,
+        "riskid": 72,
+        "status": "active",
+        "riskname": "Centres de debosselage et carosserie",
+        "lang": "F"
+    },
+    {
+        "id": 10,
+        "riskid": 10,
+        "status": "active",
+        "riskname": "Centres de jour pour adultes",
+        "lang": "F"
+    },
+    {
+        "id": 292,
+        "riskid": 292,
+        "status": "active",
+        "riskname": "Centres de tests d'A D N",
+        "lang": "F"
+    },
+    {
+        "id": 266,
+        "riskid": 266,
+        "status": "active",
+        "riskname": "Centres santé-beauté",
+        "lang": "F"
+    },
+    {
+        "id": 187,
+        "riskid": 187,
+        "status": "active",
+        "riskname": "Ceramic Tile Setting Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 188,
+        "riskid": 188,
+        "status": "active",
+        "riskname": "céramique et tuiles-Installation",
+        "lang": "E"
+    },
+    {
+        "id": 189,
+        "riskid": 189,
+        "status": "active",
+        "riskname": "Chambers of Commerce",
+        "lang": "E"
+    },
+    {
+        "id": 190,
+        "riskid": 190,
+        "status": "active",
+        "riskname": "Chambres et clubs de commerce",
+        "lang": "F"
+    },
+    {
+        "id": 472,
+        "riskid": 472,
+        "status": "active",
+        "riskname": "Chauffage - contracteurs",
+        "lang": "F"
+    },
+    {
+        "id": 470,
+        "riskid": 470,
+        "status": "active",
+        "riskname": "Chauffage et plomberie-Équipement- Grossiste",
+        "lang": "F"
+    },
+    {
+        "id": 773,
+        "riskid": 773,
+        "status": "active",
+        "riskname": "chaussures-marchands",
+        "lang": "F"
+    },
+    {
+        "id": 191,
+        "riskid": 191,
+        "status": "active",
+        "riskname": "Cheese Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 193,
+        "riskid": 193,
+        "status": "active",
+        "riskname": "Cheese Stor Es",
+        "lang": "E"
+    },
+    {
+        "id": 294,
+        "riskid": 294,
+        "status": "active",
+        "riskname": "Chenils pour chiens et chats-Sans soin, garde et contrôle",
+        "lang": "F"
+    },
+    {
+        "id": 195,
+        "riskid": 195,
+        "status": "active",
+        "riskname": "Chiropodists - office only",
+        "lang": "E"
+    },
+    {
+        "id": 197,
+        "riskid": 197,
+        "status": "active",
+        "riskname": "Chiropractors - office only",
+        "lang": "E"
+    },
+    {
+        "id": 198,
+        "riskid": 198,
+        "status": "active",
+        "riskname": "Chiropraticiens-(Assurance bureau uniquement)",
+        "lang": "F"
+    },
+    {
+        "id": 199,
+        "riskid": 199,
+        "status": "active",
+        "riskname": "Churches - Excl, Physical & Sexual abuse",
+        "lang": "E"
+    },
+    {
+        "id": 186,
+        "riskid": 186,
+        "status": "active",
+        "riskname": "Cimetières-(Responsabilité professionnlle exclue)",
+        "lang": "F"
+    },
+    {
+        "id": 334,
+        "riskid": 334,
+        "status": "active",
+        "riskname": "Circuits et systèemes électriques- Réparation Automobiles",
+        "lang": "F"
+    },
+    {
+        "id": 201,
+        "riskid": 201,
+        "status": "active",
+        "riskname": "Civic, Social & Fraternal Organizations",
+        "lang": "E"
+    },
+    {
+        "id": 530,
+        "riskid": 530,
+        "status": "active",
+        "riskname": "clairage- consultants",
+        "lang": "F"
+    },
+    {
+        "id": 203,
+        "riskid": 203,
+        "status": "active",
+        "riskname": "Clay Products Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 205,
+        "riskid": 205,
+        "status": "active",
+        "riskname": "Cleaners & Dyers",
+        "lang": "E"
+    },
+    {
+        "id": 207,
+        "riskid": 207,
+        "status": "active",
+        "riskname": "Clinics - Animal",
+        "lang": "E"
+    },
+    {
+        "id": 28,
+        "riskid": 28,
+        "status": "active",
+        "riskname": "Cliniques et centres et praticiens",
+        "lang": "F"
+    },
+    {
+        "id": 209,
+        "riskid": 209,
+        "status": "active",
+        "riskname": "Clock, Watch, Jewelry Repair Shops (no crime)",
+        "lang": "E"
+    },
+    {
+        "id": 211,
+        "riskid": 211,
+        "status": "active",
+        "riskname": "Clothing - Retail",
+        "lang": "E"
+    },
+    {
+        "id": 213,
+        "riskid": 213,
+        "status": "active",
+        "riskname": "Clothing Rental",
+        "lang": "E"
+    },
+    {
+        "id": 215,
+        "riskid": 215,
+        "status": "active",
+        "riskname": "Clothing Stor Es - Used",
+        "lang": "E"
+    },
+    {
+        "id": 442,
+        "riskid": 442,
+        "status": "active",
+        "riskname": "Club de golf et clubs privés",
+        "lang": "F"
+    },
+    {
+        "id": 202,
+        "riskid": 202,
+        "status": "active",
+        "riskname": "Club sociaux, fraternités et organisations",
+        "lang": "F"
+    },
+    {
+        "id": 845,
+        "riskid": 845,
+        "status": "active",
+        "riskname": "Clubs de tennis- instructeurs",
+        "lang": "F"
+    },
+    {
+        "id": 562,
+        "riskid": 562,
+        "status": "active",
+        "riskname": "Clubs nautiques et marinas",
+        "lang": "F"
+    },
+    {
+        "id": 466,
+        "riskid": 466,
+        "status": "active",
+        "riskname": "Clubs sportifs et de santé",
+        "lang": "F"
+    },
+    {
+        "id": 12,
+        "riskid": 12,
+        "status": "active",
+        "riskname": "Clubs vidéo pour adultes",
+        "lang": "F"
+    },
+    {
+        "id": 711,
+        "riskid": 711,
+        "status": "active",
+        "riskname": "Clud sportifs et sports de raquette",
+        "lang": "F"
+    },
+    {
+        "id": 217,
+        "riskid": 217,
+        "status": "active",
+        "riskname": "Coin & Stamp Dealers (no crime)",
+        "lang": "E"
+    },
+    {
+        "id": 219,
+        "riskid": 219,
+        "status": "active",
+        "riskname": "Coin-Op Laundries & Cleaners (attended only)",
+        "lang": "E"
+    },
+    {
+        "id": 221,
+        "riskid": 221,
+        "status": "active",
+        "riskname": "Cold Storage Warehouses",
+        "lang": "E"
+    },
+    {
+        "id": 737,
+        "riskid": 737,
+        "status": "active",
+        "riskname": "coles de voile",
+        "lang": "F"
+    },
+    {
+        "id": 753,
+        "riskid": 753,
+        "status": "active",
+        "riskname": "coles et instiutions d`enseignement -sans classification (risques d`abus physique et sexuels exclus)",
+        "lang": "F"
+    },
+    {
+        "id": 310,
+        "riskid": 310,
+        "status": "active",
+        "riskname": "coles privées de conduite",
+        "lang": "F"
+    },
+    {
+        "id": 426,
+        "riskid": 426,
+        "status": "active",
+        "riskname": "Collecte d`ordures",
+        "lang": "F"
+    },
+    {
+        "id": 223,
+        "riskid": 223,
+        "status": "active",
+        "riskname": "Commodity Brokers (no crime)",
+        "lang": "E"
+    },
+    {
+        "id": 225,
+        "riskid": 225,
+        "status": "active",
+        "riskname": "Communication & Power Line Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 138,
+        "riskid": 138,
+        "status": "active",
+        "riskname": "Compagnies d'autocars- (assurance automobile non disponible)",
+        "lang": "F"
+    },
+    {
+        "id": 370,
+        "riskid": 370,
+        "status": "active",
+        "riskname": "Compagnies de finance",
+        "lang": "F"
+    },
+    {
+        "id": 542,
+        "riskid": 542,
+        "status": "active",
+        "riskname": "Compagnies de finance-prêts dépannage (assurance contre le Crime exclue)",
+        "lang": "F"
+    },
+    {
+        "id": 831,
+        "riskid": 831,
+        "status": "active",
+        "riskname": "Compagnies de taxi-(excluant assurance automobile)",
+        "lang": "F"
+    },
+    {
+        "id": 550,
+        "riskid": 550,
+        "status": "active",
+        "riskname": "Comptoir à déjeûner et repas",
+        "lang": "F"
+    },
+    {
+        "id": 300,
+        "riskid": 300,
+        "status": "active",
+        "riskname": "Comptoirs de beignes et Beigneries",
+        "lang": "F"
+    },
+    {
+        "id": 74,
+        "riskid": 74,
+        "status": "active",
+        "riskname": "Concessionnaires marchands automobiles",
+        "lang": "F"
+    },
+    {
+        "id": 506,
+        "riskid": 506,
+        "status": "active",
+        "riskname": "Concierges et entretien bureau et domestique",
+        "lang": "F"
+    },
+    {
+        "id": 504,
+        "riskid": 504,
+        "status": "active",
+        "riskname": "Concierges et entretien d`immeuble-Matériel",
+        "lang": "F"
+    },
+    {
+        "id": 227,
+        "riskid": 227,
+        "status": "active",
+        "riskname": "Concrete Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 229,
+        "riskid": 229,
+        "status": "active",
+        "riskname": "Concrete Products Manufacturers - NOC",
+        "lang": "E"
+    },
+    {
+        "id": 231,
+        "riskid": 231,
+        "status": "active",
+        "riskname": "Condominiums",
+        "lang": "E"
+    },
+    {
+        "id": 232,
+        "riskid": 232,
+        "status": "active",
+        "riskname": "Condomuiniums",
+        "lang": "F"
+    },
+    {
+        "id": 156,
+        "riskid": 156,
+        "status": "active",
+        "riskname": "Confiserie-fabricants et grossistes",
+        "lang": "F"
+    },
+    {
+        "id": 158,
+        "riskid": 158,
+        "status": "active",
+        "riskname": "Confiseries",
+        "lang": "F"
+    },
+    {
+        "id": 160,
+        "riskid": 160,
+        "status": "active",
+        "riskname": "Confiseries-grossiste",
+        "lang": "F"
+    },
+    {
+        "id": 4,
+        "riskid": 4,
+        "status": "active",
+        "riskname": "Conseillers en prévention d'accidents",
+        "lang": "F"
+    },
+    {
+        "id": 54,
+        "riskid": 54,
+        "status": "active",
+        "riskname": "Conservateur d'objets d'art",
+        "lang": "F"
+    },
+    {
+        "id": 233,
+        "riskid": 233,
+        "status": "active",
+        "riskname": "Construction Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 235,
+        "riskid": 235,
+        "status": "active",
+        "riskname": "Construction Materials Wholesalers",
+        "lang": "E"
+    },
+    {
+        "id": 412,
+        "riskid": 412,
+        "status": "active",
+        "riskname": "Consultant en financement et levée de fonds",
+        "lang": "F"
+    },
+    {
+        "id": 709,
+        "riskid": 709,
+        "status": "active",
+        "riskname": "Consultants en contrôle de la qualité",
+        "lang": "F"
+    },
+    {
+        "id": 237,
+        "riskid": 237,
+        "status": "active",
+        "riskname": "Contract Food Services",
+        "lang": "E"
+    },
+    {
+        "id": 432,
+        "riskid": 432,
+        "status": "active",
+        "riskname": "Contracteur général- immeuble 1 à 4 logis",
+        "lang": "F"
+    },
+    {
+        "id": 434,
+        "riskid": 434,
+        "status": "active",
+        "riskname": "Contracteur général-sans classification",
+        "lang": "F"
+    },
+    {
+        "id": 172,
+        "riskid": 172,
+        "status": "active",
+        "riskname": "Contracteurs charpentiers et menuiserie",
+        "lang": "E"
+    },
+    {
+        "id": 18,
+        "riskid": 18,
+        "status": "active",
+        "riskname": "Contracteurs en climatisation",
+        "lang": "F"
+    },
+    {
+        "id": 6,
+        "riskid": 6,
+        "status": "active",
+        "riskname": "Contracteurs isolation et  enceintes acoustiques",
+        "lang": "F"
+    },
+    {
+        "id": 239,
+        "riskid": 239,
+        "status": "active",
+        "riskname": "Contractors Equipment",
+        "lang": "E"
+    },
+    {
+        "id": 241,
+        "riskid": 241,
+        "status": "active",
+        "riskname": "Convalescent Nursing Rest Homes",
+        "lang": "E"
+    },
+    {
+        "id": 243,
+        "riskid": 243,
+        "status": "active",
+        "riskname": "Convenience Food Stor Es",
+        "lang": "E"
+    },
+    {
+        "id": 245,
+        "riskid": 245,
+        "status": "active",
+        "riskname": "Convention Planners",
+        "lang": "E"
+    },
+    {
+        "id": 320,
+        "riskid": 320,
+        "status": "active",
+        "riskname": "Copie et reproduction",
+        "lang": "F"
+    },
+    {
+        "id": 247,
+        "riskid": 247,
+        "status": "active",
+        "riskname": "Copying & Duplicating Services",
+        "lang": "E"
+    },
+    {
+        "id": 771,
+        "riskid": 771,
+        "status": "active",
+        "riskname": "Cordonneries-réparation de chaussures",
+        "lang": "F"
+    },
+    {
+        "id": 402,
+        "riskid": 402,
+        "status": "active",
+        "riskname": "Courtier de fret",
+        "lang": "F"
+    },
+    {
+        "id": 224,
+        "riskid": 224,
+        "status": "active",
+        "riskname": "Courtier matières premières-(sans assurance Crime)",
+        "lang": "F"
+    },
+    {
+        "id": 805,
+        "riskid": 805,
+        "status": "active",
+        "riskname": "Courtiers en bourse et bonds (Sans protection Assurance contre le Crime)",
+        "lang": "F"
+    },
+    {
+        "id": 304,
+        "riskid": 304,
+        "status": "active",
+        "riskname": "Couturière",
+        "lang": "F"
+    },
+    {
+        "id": 249,
+        "riskid": 249,
+        "status": "active",
+        "riskname": "Creamery Butter Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 251,
+        "riskid": 251,
+        "status": "active",
+        "riskname": "Credit Unions (no crime)",
+        "lang": "E"
+    },
+    {
+        "id": 253,
+        "riskid": 253,
+        "status": "active",
+        "riskname": "Crematory Operations",
+        "lang": "E"
+    },
+    {
+        "id": 255,
+        "riskid": 255,
+        "status": "active",
+        "riskname": "Dairy Products Manufacturing",
+        "lang": "E"
+    },
+    {
+        "id": 257,
+        "riskid": 257,
+        "status": "active",
+        "riskname": "Dairy Products Stor Es",
+        "lang": "E"
+    },
+    {
+        "id": 259,
+        "riskid": 259,
+        "status": "active",
+        "riskname": "Dairy Products Wholesale",
+        "lang": "E"
+    },
+    {
+        "id": 261,
+        "riskid": 261,
+        "status": "active",
+        "riskname": "Dairy, Soft Drink, Ice Cream Stands (no cooking)",
+        "lang": "E"
+    },
+    {
+        "id": 263,
+        "riskid": 263,
+        "status": "active",
+        "riskname": "Data Processing Services",
+        "lang": "E"
+    },
+    {
+        "id": 265,
+        "riskid": 265,
+        "status": "active",
+        "riskname": "Day Spas",
+        "lang": "E"
+    },
+    {
+        "id": 267,
+        "riskid": 267,
+        "status": "active",
+        "riskname": "Daycare Centers - Excl. Physical & Sexual abuse",
+        "lang": "E"
+    },
+    {
+        "id": 803,
+        "riskid": 803,
+        "status": "active",
+        "riskname": "Débardeurs et manutention portuaires",
+        "lang": "F"
+    },
+    {
+        "id": 270,
+        "riskid": 270,
+        "status": "active",
+        "riskname": "Décorateurs d` intérieur",
+        "lang": "F"
+    },
+    {
+        "id": 498,
+        "riskid": 498,
+        "status": "active",
+        "riskname": "Décoration d`intérieur",
+        "lang": "F"
+    },
+    {
+        "id": 269,
+        "riskid": 269,
+        "status": "active",
+        "riskname": "Decorators - Interior",
+        "lang": "E"
+    },
+    {
+        "id": 271,
+        "riskid": 271,
+        "status": "active",
+        "riskname": "Decorators' Supplies Wholesalers",
+        "lang": "E"
+    },
+    {
+        "id": 274,
+        "riskid": 274,
+        "status": "active",
+        "riskname": "Deli, restaurants sandwichs, viandes fumées",
+        "lang": "F"
+    },
+    {
+        "id": 276,
+        "riskid": 276,
+        "status": "active",
+        "riskname": "Deli, sandwichs, viandes fumées (sans cuisson et alcool)",
+        "lang": "F"
+    },
+    {
+        "id": 273,
+        "riskid": 273,
+        "status": "active",
+        "riskname": "Delicatessen Restaurants",
+        "lang": "E"
+    },
+    {
+        "id": 275,
+        "riskid": 275,
+        "status": "active",
+        "riskname": "Delicatessens (no cooking or alcohol)",
+        "lang": "E"
+    },
+    {
+        "id": 937,
+        "riskid": 937,
+        "status": "active",
+        "riskname": "Démolition (bâtiments jusqu' a 4 étages)-contracteur",
+        "lang": "F"
+    },
+    {
+        "id": 783,
+        "riskid": 783,
+        "status": "active",
+        "riskname": "Déneigement et contracteurs déneigeurs",
+        "lang": "F"
+    },
+    {
+        "id": 277,
+        "riskid": 277,
+        "status": "active",
+        "riskname": "Dental Laboratories",
+        "lang": "E"
+    },
+    {
+        "id": 279,
+        "riskid": 279,
+        "status": "active",
+        "riskname": "Dentists' Offices-Premises",
+        "lang": "E"
+    },
+    {
+        "id": 244,
+        "riskid": 244,
+        "status": "active",
+        "riskname": "Dépanneurs & épiciers",
+        "lang": "F"
+    },
+    {
+        "id": 897,
+        "riskid": 897,
+        "status": "active",
+        "riskname": "Depanneurs et magasins generaux",
+        "lang": "F"
+    },
+    {
+        "id": 281,
+        "riskid": 281,
+        "status": "active",
+        "riskname": "Department Stor Es",
+        "lang": "E"
+    },
+    {
+        "id": 286,
+        "riskid": 286,
+        "status": "active",
+        "riskname": "Dététiques-Consultants en diététique et nutrition",
+        "lang": "F"
+    },
+    {
+        "id": 283,
+        "riskid": 283,
+        "status": "active",
+        "riskname": "Diagnostic Centers - Auto",
+        "lang": "E"
+    },
+    {
+        "id": 285,
+        "riskid": 285,
+        "status": "active",
+        "riskname": "Dieticians (Consulting)",
+        "lang": "E"
+    },
+    {
+        "id": 287,
+        "riskid": 287,
+        "status": "active",
+        "riskname": "Dinner Theatre Restaurants",
+        "lang": "E"
+    },
+    {
+        "id": 289,
+        "riskid": 289,
+        "status": "active",
+        "riskname": "Display Case - Refrigerated Wholesalers",
+        "lang": "E"
+    },
+    {
+        "id": 258,
+        "riskid": 258,
+        "status": "active",
+        "riskname": "Distributeurs de produits laitiers",
+        "lang": "F"
+    },
+    {
+        "id": 44,
+        "riskid": 44,
+        "status": "active",
+        "riskname": "Distributeurs en gros téleviseurs et appareils radio",
+        "lang": "F"
+    },
+    {
+        "id": 16,
+        "riskid": 16,
+        "status": "active",
+        "riskname": "Distributeurs systèmes climatisation",
+        "lang": "F"
+    },
+    {
+        "id": 80,
+        "riskid": 80,
+        "status": "active",
+        "riskname": "Distribution en gros- Pièces neuves seulement",
+        "lang": "F"
+    },
+    {
+        "id": 291,
+        "riskid": 291,
+        "status": "active",
+        "riskname": "DNA Testing Services",
+        "lang": "E"
+    },
+    {
+        "id": 293,
+        "riskid": 293,
+        "status": "active",
+        "riskname": "Dog & Cat Kennels-Excl. CCC",
+        "lang": "E"
+    },
+    {
+        "id": 295,
+        "riskid": 295,
+        "status": "active",
+        "riskname": "Dog Grooming Services",
+        "lang": "E"
+    },
+    {
+        "id": 297,
+        "riskid": 297,
+        "status": "active",
+        "riskname": "Door, Sash & Trim Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 299,
+        "riskid": 299,
+        "status": "active",
+        "riskname": "Doughnut Shops - Retail",
+        "lang": "E"
+    },
+    {
+        "id": 301,
+        "riskid": 301,
+        "status": "active",
+        "riskname": "Drapery, Curtain, Upholstery Shops-Retail",
+        "lang": "E"
+    },
+    {
+        "id": 303,
+        "riskid": 303,
+        "status": "active",
+        "riskname": "Dressmaker",
+        "lang": "E"
+    },
+    {
+        "id": 305,
+        "riskid": 305,
+        "status": "active",
+        "riskname": "Drilling Contractors - Water Well",
+        "lang": "E"
+    },
+    {
+        "id": 307,
+        "riskid": 307,
+        "status": "active",
+        "riskname": "Drive-In Restaurant",
+        "lang": "E"
+    },
+    {
+        "id": 309,
+        "riskid": 309,
+        "status": "active",
+        "riskname": "Driver Training Schools (Private)",
+        "lang": "E"
+    },
+    {
+        "id": 311,
+        "riskid": 311,
+        "status": "active",
+        "riskname": "Driveway Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 313,
+        "riskid": 313,
+        "status": "active",
+        "riskname": "Drug Stor Es - Excl. Malpractice",
+        "lang": "E"
+    },
+    {
+        "id": 315,
+        "riskid": 315,
+        "status": "active",
+        "riskname": "Dry Cleaners",
+        "lang": "E"
+    },
+    {
+        "id": 317,
+        "riskid": 317,
+        "status": "active",
+        "riskname": "Drywall Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 319,
+        "riskid": 319,
+        "status": "active",
+        "riskname": "Duplicating & Copying Services",
+        "lang": "E"
+    },
+    {
+        "id": 321,
+        "riskid": 321,
+        "status": "active",
+        "riskname": "Earthenware Manufacturers - Kitchen",
+        "lang": "E"
+    },
+    {
+        "id": 336,
+        "riskid": 336,
+        "status": "active",
+        "riskname": "EÉlectriciens et électricité- contracteurs",
+        "lang": "F"
+    },
+    {
+        "id": 323,
+        "riskid": 323,
+        "status": "active",
+        "riskname": "Egg & Poultry Processors",
+        "lang": "E"
+    },
+    {
+        "id": 325,
+        "riskid": 325,
+        "status": "active",
+        "riskname": "Electric & Electronic Repair Shops",
+        "lang": "E"
+    },
+    {
+        "id": 327,
+        "riskid": 327,
+        "status": "active",
+        "riskname": "Electric Appliance Dealers",
+        "lang": "E"
+    },
+    {
+        "id": 329,
+        "riskid": 329,
+        "status": "active",
+        "riskname": "Electrical Apparatus Wholesalers",
+        "lang": "E"
+    },
+    {
+        "id": 331,
+        "riskid": 331,
+        "status": "active",
+        "riskname": "Electrical Appliance Wholesalers",
+        "lang": "E"
+    },
+    {
+        "id": 333,
+        "riskid": 333,
+        "status": "active",
+        "riskname": "Electrical Services - Auto",
+        "lang": "E"
+    },
+    {
+        "id": 335,
+        "riskid": 335,
+        "status": "active",
+        "riskname": "Electrical Work Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 337,
+        "riskid": 337,
+        "status": "active",
+        "riskname": "Electrolysis Studio",
+        "lang": "E"
+    },
+    {
+        "id": 339,
+        "riskid": 339,
+        "status": "active",
+        "riskname": "Electronic Parts & Equipment - Wholesale",
+        "lang": "E"
+    },
+    {
+        "id": 341,
+        "riskid": 341,
+        "status": "active",
+        "riskname": "Elevator Installation Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 343,
+        "riskid": 343,
+        "status": "active",
+        "riskname": "Employment Agencies",
+        "lang": "E"
+    },
+    {
+        "id": 162,
+        "riskid": 162,
+        "status": "active",
+        "riskname": "Enannage de fruits et legumes",
+        "lang": "F"
+    },
+    {
+        "id": 62,
+        "riskid": 62,
+        "status": "active",
+        "riskname": "Encanteurs",
+        "lang": "F"
+    },
+    {
+        "id": 345,
+        "riskid": 345,
+        "status": "active",
+        "riskname": "Engineering, Architectural Service - Premises",
+        "lang": "E"
+    },
+    {
+        "id": 781,
+        "riskid": 781,
+        "status": "active",
+        "riskname": "Enseignes extérieure-entretien et réparation",
+        "lang": "F"
+    },
+    {
+        "id": 662,
+        "riskid": 662,
+        "status": "active",
+        "riskname": "Entraîneurs personnels",
+        "lang": "F"
+    },
+    {
+        "id": 222,
+        "riskid": 222,
+        "status": "active",
+        "riskname": "Entrepôts refrigerés",
+        "lang": "F"
+    },
+    {
+        "id": 306,
+        "riskid": 306,
+        "status": "active",
+        "riskname": "Entrepreneur forage-puits eau potable",
+        "lang": "F"
+    },
+    {
+        "id": 368,
+        "riskid": 368,
+        "status": "active",
+        "riskname": "Entrepreneurs en clôtures",
+        "lang": "F"
+    },
+    {
+        "id": 234,
+        "riskid": 234,
+        "status": "active",
+        "riskname": "Entrepreneurs en construction",
+        "lang": "F"
+    },
+    {
+        "id": 124,
+        "riskid": 124,
+        "status": "active",
+        "riskname": "Entrepreneurs en construction- petits ponts et structure",
+        "lang": "F"
+    },
+    {
+        "id": 130,
+        "riskid": 130,
+        "status": "active",
+        "riskname": "Entrepreneurs en construction- structures bois & métal préfabriquées",
+        "lang": "F"
+    },
+    {
+        "id": 749,
+        "riskid": 749,
+        "status": "active",
+        "riskname": "Entrepreneurs en échaffaudage",
+        "lang": "F"
+    },
+    {
+        "id": 546,
+        "riskid": 546,
+        "status": "active",
+        "riskname": "Entrepreneurs for Estiers",
+        "lang": "F"
+    },
+    {
+        "id": 440,
+        "riskid": 440,
+        "status": "active",
+        "riskname": "Entrepreneurs verre et vitraux",
+        "lang": "F"
+    },
+    {
+        "id": 128,
+        "riskid": 128,
+        "status": "active",
+        "riskname": "Entretien & nettoyage d'immeubles",
+        "lang": "F"
+    },
+    {
+        "id": 347,
+        "riskid": 347,
+        "status": "active",
+        "riskname": "Environmental Consulting Firms",
+        "lang": "E"
+    },
+    {
+        "id": 349,
+        "riskid": 349,
+        "status": "active",
+        "riskname": "Equipment & Supply Wholesalers Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 351,
+        "riskid": 351,
+        "status": "active",
+        "riskname": "Equipment Rental & Leasing Services",
+        "lang": "E"
+    },
+    {
+        "id": 353,
+        "riskid": 353,
+        "status": "active",
+        "riskname": "Erecting & Moving Machinery Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 355,
+        "riskid": 355,
+        "status": "active",
+        "riskname": "Excavating Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 356,
+        "riskid": 356,
+        "status": "active",
+        "riskname": "Excavation-contracteurs entrepreneurs",
+        "lang": "F"
+    },
+    {
+        "id": 494,
+        "riskid": 494,
+        "status": "active",
+        "riskname": "Experts en sinistres",
+        "lang": "F"
+    },
+    {
+        "id": 634,
+        "riskid": 634,
+        "status": "active",
+        "riskname": "Exploitation minière de minerai",
+        "lang": "F"
+    },
+    {
+        "id": 935,
+        "riskid": 935,
+        "status": "active",
+        "riskname": "Exportation-ventes internationales",
+        "lang": "F"
+    },
+    {
+        "id": 664,
+        "riskid": 664,
+        "status": "active",
+        "riskname": "Exterminateurs-service d`extermination",
+        "lang": "F"
+    },
+    {
+        "id": 374,
+        "riskid": 374,
+        "status": "active",
+        "riskname": "Extincteurs chimiques- Grossiste",
+        "lang": "F"
+    },
+    {
+        "id": 719,
+        "riskid": 719,
+        "status": "active",
+        "riskname": "Fabricant béton prêt à l`emploi (`Ready Mix)",
+        "lang": "F"
+    },
+    {
+        "id": 668,
+        "riskid": 668,
+        "status": "active",
+        "riskname": "Fabricant de nourriture pour animaux",
+        "lang": "F"
+    },
+    {
+        "id": 152,
+        "riskid": 152,
+        "status": "active",
+        "riskname": "Fabricant de roulottes et motorisés",
+        "lang": "F"
+    },
+    {
+        "id": 204,
+        "riskid": 204,
+        "status": "active",
+        "riskname": "Fabricants d argile et produits dérivés",
+        "lang": "F"
+    },
+    {
+        "id": 933,
+        "riskid": 933,
+        "status": "active",
+        "riskname": "Fabricants de produits for Estiers-sans claissification",
+        "lang": "F"
+    },
+    {
+        "id": 134,
+        "riskid": 134,
+        "status": "active",
+        "riskname": "Fabricants de structures d`immeubles bois et métal préfabriqué",
+        "lang": "F"
+    },
+    {
+        "id": 142,
+        "riskid": 142,
+        "status": "active",
+        "riskname": "Fabricants d`armoires",
+        "lang": "F"
+    },
+    {
+        "id": 636,
+        "riskid": 636,
+        "status": "active",
+        "riskname": "Fabricants d`ornements métalliques",
+        "lang": "F"
+    },
+    {
+        "id": 298,
+        "riskid": 298,
+        "status": "active",
+        "riskname": "Fabricants portes, fenêtres, contours et moulures",
+        "lang": "F"
+    },
+    {
+        "id": 558,
+        "riskid": 558,
+        "status": "active",
+        "riskname": "Fabricants-Sans classification",
+        "lang": "F"
+    },
+    {
+        "id": 357,
+        "riskid": 357,
+        "status": "active",
+        "riskname": "Fabricated Metal Products Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 230,
+        "riskid": 230,
+        "status": "active",
+        "riskname": "Fabrication de béton et produits derivés-sans classification",
+        "lang": "F"
+    },
+    {
+        "id": 20,
+        "riskid": 20,
+        "status": "active",
+        "riskname": "Fabrication équipement de systèmes de climatisation",
+        "lang": "F"
+    },
+    {
+        "id": 22,
+        "riskid": 22,
+        "status": "active",
+        "riskname": "Fabrication et vente de système d' alarmes",
+        "lang": "F"
+    },
+    {
+        "id": 322,
+        "riskid": 322,
+        "status": "active",
+        "riskname": "Faïence et poterie- Fabricants",
+        "lang": "F"
+    },
+    {
+        "id": 359,
+        "riskid": 359,
+        "status": "active",
+        "riskname": "Fairs - Excl Midway Rides",
+        "lang": "E"
+    },
+    {
+        "id": 361,
+        "riskid": 361,
+        "status": "active",
+        "riskname": "Farm & Garden Supply Stor Es",
+        "lang": "E"
+    },
+    {
+        "id": 363,
+        "riskid": 363,
+        "status": "active",
+        "riskname": "Fast Food - Franchise",
+        "lang": "E"
+    },
+    {
+        "id": 365,
+        "riskid": 365,
+        "status": "active",
+        "riskname": "Feed Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 367,
+        "riskid": 367,
+        "status": "active",
+        "riskname": "Fence Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 755,
+        "riskid": 755,
+        "status": "active",
+        "riskname": "Fer et feraille-Marchands",
+        "lang": "F"
+    },
+    {
+        "id": 362,
+        "riskid": 362,
+        "status": "active",
+        "riskname": "Fermes et jardins-matériel jardinage",
+        "lang": "F"
+    },
+    {
+        "id": 369,
+        "riskid": 369,
+        "status": "active",
+        "riskname": "Finance Companies",
+        "lang": "E"
+    },
+    {
+        "id": 594,
+        "riskid": 594,
+        "status": "active",
+        "riskname": "Financement hypothécaire-compagnie",
+        "lang": "F"
+    },
+    {
+        "id": 372,
+        "riskid": 372,
+        "status": "active",
+        "riskname": "Financement- conseil",
+        "lang": "F"
+    },
+    {
+        "id": 371,
+        "riskid": 371,
+        "status": "active",
+        "riskname": "Financing Consultants",
+        "lang": "E"
+    },
+    {
+        "id": 373,
+        "riskid": 373,
+        "status": "active",
+        "riskname": "Fire Extinguishers Wholesalers",
+        "lang": "E"
+    },
+    {
+        "id": 375,
+        "riskid": 375,
+        "status": "active",
+        "riskname": "Fireproofing Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 556,
+        "riskid": 556,
+        "status": "active",
+        "riskname": "Firme Gestion conseil",
+        "lang": "F"
+    },
+    {
+        "id": 348,
+        "riskid": 348,
+        "status": "active",
+        "riskname": "Firmes conseil en environnement",
+        "lang": "F"
+    },
+    {
+        "id": 346,
+        "riskid": 346,
+        "status": "active",
+        "riskname": "Firmes d`ingénieurs et d`architectes (lieux physqies)",
+        "lang": "F"
+    },
+    {
+        "id": 377,
+        "riskid": 377,
+        "status": "active",
+        "riskname": "Fish & Seafood Plants - Canned",
+        "lang": "E"
+    },
+    {
+        "id": 379,
+        "riskid": 379,
+        "status": "active",
+        "riskname": "Fish & Seafood Plants - Fresh/Frozen",
+        "lang": "E"
+    },
+    {
+        "id": 381,
+        "riskid": 381,
+        "status": "active",
+        "riskname": "Fish & Seafood Wholesalers",
+        "lang": "E"
+    },
+    {
+        "id": 383,
+        "riskid": 383,
+        "status": "active",
+        "riskname": "Fish, Meat, Seafood Markets",
+        "lang": "E"
+    },
+    {
+        "id": 394,
+        "riskid": 394,
+        "status": "active",
+        "riskname": "Fleuristes-détail",
+        "lang": "F"
+    },
+    {
+        "id": 396,
+        "riskid": 396,
+        "status": "active",
+        "riskname": "Fleuristes-vente en gros de matériel",
+        "lang": "F"
+    },
+    {
+        "id": 385,
+        "riskid": 385,
+        "status": "active",
+        "riskname": "Floor Covering Stor Es",
+        "lang": "E"
+    },
+    {
+        "id": 387,
+        "riskid": 387,
+        "status": "active",
+        "riskname": "Floor Laying & Resurfacing Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 389,
+        "riskid": 389,
+        "status": "active",
+        "riskname": "Floor Work - NOC Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 392,
+        "riskid": 392,
+        "status": "active",
+        "riskname": "Floriculteurs",
+        "lang": "F"
+    },
+    {
+        "id": 391,
+        "riskid": 391,
+        "status": "active",
+        "riskname": "Floriculture, Ornamental",
+        "lang": "E"
+    },
+    {
+        "id": 393,
+        "riskid": 393,
+        "status": "active",
+        "riskname": "Florist - Retail",
+        "lang": "E"
+    },
+    {
+        "id": 395,
+        "riskid": 395,
+        "status": "active",
+        "riskname": "Florist Supplies Wholesale",
+        "lang": "E"
+    },
+    {
+        "id": 360,
+        "riskid": 360,
+        "status": "active",
+        "riskname": "Foires et fêtes foraines (manèges Midway exclus)",
+        "lang": "F"
+    },
+    {
+        "id": 398,
+        "riskid": 398,
+        "status": "active",
+        "riskname": "For Esterie- services conseil",
+        "lang": "F"
+    },
+    {
+        "id": 397,
+        "riskid": 397,
+        "status": "active",
+        "riskname": "For Estry Firms/Consultants",
+        "lang": "E"
+    },
+    {
+        "id": 763,
+        "riskid": 763,
+        "status": "active",
+        "riskname": "Fosses septiques-contracteurs",
+        "lang": "F"
+    },
+    {
+        "id": 400,
+        "riskid": 400,
+        "status": "active",
+        "riskname": "Fraternités et sororités",
+        "lang": "F"
+    },
+    {
+        "id": 399,
+        "riskid": 399,
+        "status": "active",
+        "riskname": "Fraternities & Sororities",
+        "lang": "E"
+    },
+    {
+        "id": 401,
+        "riskid": 401,
+        "status": "active",
+        "riskname": "Freight Brokers",
+        "lang": "E"
+    },
+    {
+        "id": 122,
+        "riskid": 122,
+        "status": "active",
+        "riskname": "Freins- réparation et entretien",
+        "lang": "F"
+    },
+    {
+        "id": 192,
+        "riskid": 192,
+        "status": "active",
+        "riskname": "Fromagiers et fromageries",
+        "lang": "F"
+    },
+    {
+        "id": 403,
+        "riskid": 403,
+        "status": "active",
+        "riskname": "Frozen Fruit & Vegetable Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 405,
+        "riskid": 405,
+        "status": "active",
+        "riskname": "Fruit & Vegetable Manufacturers & Canning",
+        "lang": "E"
+    },
+    {
+        "id": 407,
+        "riskid": 407,
+        "status": "active",
+        "riskname": "Fruit & Vegetable Stor Es",
+        "lang": "E"
+    },
+    {
+        "id": 409,
+        "riskid": 409,
+        "status": "active",
+        "riskname": "Fruits & Vegetables, Fresh - Wholesale",
+        "lang": "E"
+    },
+    {
+        "id": 410,
+        "riskid": 410,
+        "status": "active",
+        "riskname": "Fruits et légumes-distribution en gros",
+        "lang": "F"
+    },
+    {
+        "id": 408,
+        "riskid": 408,
+        "status": "active",
+        "riskname": "Fruits et légumes-marchands",
+        "lang": "F"
+    },
+    {
+        "id": 574,
+        "riskid": 574,
+        "status": "active",
+        "riskname": "Fumoirs et congélation de viandes",
+        "lang": "F"
+    },
+    {
+        "id": 411,
+        "riskid": 411,
+        "status": "active",
+        "riskname": "Fund Raising Consultants",
+        "lang": "E"
+    },
+    {
+        "id": 413,
+        "riskid": 413,
+        "status": "active",
+        "riskname": "Funeral Homes",
+        "lang": "E"
+    },
+    {
+        "id": 417,
+        "riskid": 417,
+        "status": "active",
+        "riskname": "Furniture & Upholstery Repair",
+        "lang": "E"
+    },
+    {
+        "id": 415,
+        "riskid": 415,
+        "status": "active",
+        "riskname": "Furniture - Retail & Wholesale",
+        "lang": "E"
+    },
+    {
+        "id": 419,
+        "riskid": 419,
+        "status": "active",
+        "riskname": "Furniture Manufacturer",
+        "lang": "E"
+    },
+    {
+        "id": 421,
+        "riskid": 421,
+        "status": "active",
+        "riskname": "Furniture Stor Es - Used",
+        "lang": "E"
+    },
+    {
+        "id": 423,
+        "riskid": 423,
+        "status": "active",
+        "riskname": "Furniture, Office & Equipment - Wholesale",
+        "lang": "E"
+    },
+    {
+        "id": 56,
+        "riskid": 56,
+        "status": "active",
+        "riskname": "Galeries d'art",
+        "lang": "F"
+    },
+    {
+        "id": 84,
+        "riskid": 84,
+        "status": "active",
+        "riskname": "Garages et ateliers spécialisés (voir liste)",
+        "lang": "F"
+    },
+    {
+        "id": 425,
+        "riskid": 425,
+        "status": "active",
+        "riskname": "Garbage & Trash Collectors",
+        "lang": "E"
+    },
+    {
+        "id": 427,
+        "riskid": 427,
+        "status": "active",
+        "riskname": "Garden & Farm Supply Stor Es",
+        "lang": "E"
+    },
+    {
+        "id": 268,
+        "riskid": 268,
+        "status": "active",
+        "riskname": "Garderies - (exclusion risques reliées aux abus physiques et sexuels)",
+        "lang": "F"
+    },
+    {
+        "id": 456,
+        "riskid": 456,
+        "status": "active",
+        "riskname": "Gardiens de sécurité et patrouilleurs",
+        "lang": "F"
+    },
+    {
+        "id": 429,
+        "riskid": 429,
+        "status": "active",
+        "riskname": "Gasoline Service Stations",
+        "lang": "E"
+    },
+    {
+        "id": 431,
+        "riskid": 431,
+        "status": "active",
+        "riskname": "General Contractors - 1 to 4 Fm Dwg",
+        "lang": "E"
+    },
+    {
+        "id": 433,
+        "riskid": 433,
+        "status": "active",
+        "riskname": "General Contractors - NOC",
+        "lang": "E"
+    },
+    {
+        "id": 705,
+        "riskid": 705,
+        "status": "active",
+        "riskname": "Gestion d`immeubles et immobilière",
+        "lang": "F"
+    },
+    {
+        "id": 435,
+        "riskid": 435,
+        "status": "active",
+        "riskname": "Gift & Novelties - Wholesale",
+        "lang": "E"
+    },
+    {
+        "id": 437,
+        "riskid": 437,
+        "status": "active",
+        "riskname": "Gift Shops",
+        "lang": "E"
+    },
+    {
+        "id": 439,
+        "riskid": 439,
+        "status": "active",
+        "riskname": "Glass & Glazing Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 200,
+        "riskid": 200,
+        "status": "active",
+        "riskname": "glises-(risques d`abus physiques et sexuels exclus)",
+        "lang": "F"
+    },
+    {
+        "id": 441,
+        "riskid": 441,
+        "status": "active",
+        "riskname": "Golf & Country Clubs",
+        "lang": "E"
+    },
+    {
+        "id": 460,
+        "riskid": 460,
+        "status": "active",
+        "riskname": "Goutières drains de toits et descentes-contracteurs",
+        "lang": "F"
+    },
+    {
+        "id": 443,
+        "riskid": 443,
+        "status": "active",
+        "riskname": "Grain Elevators",
+        "lang": "E"
+    },
+    {
+        "id": 761,
+        "riskid": 761,
+        "status": "active",
+        "riskname": "Grains et semences-transformation",
+        "lang": "F"
+    },
+    {
+        "id": 445,
+        "riskid": 445,
+        "status": "active",
+        "riskname": "Graphic Designers",
+        "lang": "E"
+    },
+    {
+        "id": 446,
+        "riskid": 446,
+        "status": "active",
+        "riskname": "Graphistes et designers graphiques",
+        "lang": "F"
+    },
+    {
+        "id": 447,
+        "riskid": 447,
+        "status": "active",
+        "riskname": "Gravel Quarries",
+        "lang": "E"
+    },
+    {
+        "id": 449,
+        "riskid": 449,
+        "status": "active",
+        "riskname": "Greenhouses - Named Perils",
+        "lang": "E"
+    },
+    {
+        "id": 451,
+        "riskid": 451,
+        "status": "active",
+        "riskname": "Groceries - Wholesale",
+        "lang": "E"
+    },
+    {
+        "id": 453,
+        "riskid": 453,
+        "status": "active",
+        "riskname": "Grocery Stor Es (under 7,500 sq. ft.)",
+        "lang": "E"
+    },
+    {
+        "id": 455,
+        "riskid": 455,
+        "status": "active",
+        "riskname": "Guard & Patrol Services",
+        "lang": "E"
+    },
+    {
+        "id": 457,
+        "riskid": 457,
+        "status": "active",
+        "riskname": "Gunsmiths & Gun (Firearms) Shops Excl. Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 459,
+        "riskid": 459,
+        "status": "active",
+        "riskname": "Gutter & Downspout Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 318,
+        "riskid": 318,
+        "status": "active",
+        "riskname": "Gyproc et placo-plâtres-contracteurs",
+        "lang": "F"
+    },
+    {
+        "id": 461,
+        "riskid": 461,
+        "status": "active",
+        "riskname": "Halls & Auditoriums",
+        "lang": "E"
+    },
+    {
+        "id": 463,
+        "riskid": 463,
+        "status": "active",
+        "riskname": "Hardware Stor Es",
+        "lang": "E"
+    },
+    {
+        "id": 465,
+        "riskid": 465,
+        "status": "active",
+        "riskname": "Health Clubs",
+        "lang": "E"
+    },
+    {
+        "id": 467,
+        "riskid": 467,
+        "status": "active",
+        "riskname": "Hearing Aid Outlets",
+        "lang": "E"
+    },
+    {
+        "id": 469,
+        "riskid": 469,
+        "status": "active",
+        "riskname": "Heating & Plumbing Products - Wholesale",
+        "lang": "E"
+    },
+    {
+        "id": 471,
+        "riskid": 471,
+        "status": "active",
+        "riskname": "Heating Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 473,
+        "riskid": 473,
+        "status": "active",
+        "riskname": "Holding Companies",
+        "lang": "E"
+    },
+    {
+        "id": 475,
+        "riskid": 475,
+        "status": "active",
+        "riskname": "Home Furnishing Stor Es",
+        "lang": "E"
+    },
+    {
+        "id": 478,
+        "riskid": 478,
+        "status": "active",
+        "riskname": "Homéopathes",
+        "lang": "F"
+    },
+    {
+        "id": 477,
+        "riskid": 477,
+        "status": "active",
+        "riskname": "Homeopaths",
+        "lang": "E"
+    },
+    {
+        "id": 479,
+        "riskid": 479,
+        "status": "active",
+        "riskname": "Hospice Facilities",
+        "lang": "E"
+    },
+    {
+        "id": 480,
+        "riskid": 480,
+        "status": "active",
+        "riskname": "Hospices",
+        "lang": "F"
+    },
+    {
+        "id": 481,
+        "riskid": 481,
+        "status": "active",
+        "riskname": "Hotels & Motels (2 story & under)",
+        "lang": "E"
+    },
+    {
+        "id": 482,
+        "riskid": 482,
+        "status": "active",
+        "riskname": "Hotels et motels (2 étages et moins)",
+        "lang": "F"
+    },
+    {
+        "id": 483,
+        "riskid": 483,
+        "status": "active",
+        "riskname": "House Moving Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 486,
+        "riskid": 486,
+        "status": "active",
+        "riskname": "Hypnologues",
+        "lang": "F"
+    },
+    {
+        "id": 485,
+        "riskid": 485,
+        "status": "active",
+        "riskname": "Hypnotherapists",
+        "lang": "E"
+    },
+    {
+        "id": 487,
+        "riskid": 487,
+        "status": "active",
+        "riskname": "Ice Cream Dairy & Soft Drink Stands (no cooking)",
+        "lang": "E"
+    },
+    {
+        "id": 376,
+        "riskid": 376,
+        "status": "active",
+        "riskname": "Ignifugation-Contracteur",
+        "lang": "F"
+    },
+    {
+        "id": 640,
+        "riskid": 640,
+        "status": "active",
+        "riskname": "Immeuble-Propriétaire occupant",
+        "lang": "F"
+    },
+    {
+        "id": 38,
+        "riskid": 38,
+        "status": "active",
+        "riskname": "Immeubles locatifs (2 étages et moins)",
+        "lang": "F"
+    },
+    {
+        "id": 907,
+        "riskid": 907,
+        "status": "active",
+        "riskname": "imperméabilisation et etanchéité",
+        "lang": "F"
+    },
+    {
+        "id": 703,
+        "riskid": 703,
+        "status": "active",
+        "riskname": "Imprimerie, édition et industries connexes",
+        "lang": "F"
+    },
+    {
+        "id": 490,
+        "riskid": 490,
+        "status": "active",
+        "riskname": "Installateurs-Assurance flottante",
+        "lang": "F"
+    },
+    {
+        "id": 132,
+        "riskid": 132,
+        "status": "active",
+        "riskname": "Installation équipment de construction",
+        "lang": "F"
+    },
+    {
+        "id": 489,
+        "riskid": 489,
+        "status": "active",
+        "riskname": "Installation Floater",
+        "lang": "E"
+    },
+    {
+        "id": 610,
+        "riskid": 610,
+        "status": "active",
+        "riskname": "Instruments de musique-Détaillants",
+        "lang": "F"
+    },
+    {
+        "id": 491,
+        "riskid": 491,
+        "status": "active",
+        "riskname": "Insulation Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 493,
+        "riskid": 493,
+        "status": "active",
+        "riskname": "Insurance Adjusters",
+        "lang": "E"
+    },
+    {
+        "id": 495,
+        "riskid": 495,
+        "status": "active",
+        "riskname": "Insurance Agents",
+        "lang": "E"
+    },
+    {
+        "id": 497,
+        "riskid": 497,
+        "status": "active",
+        "riskname": "Interior Decorating Services",
+        "lang": "E"
+    },
+    {
+        "id": 499,
+        "riskid": 499,
+        "status": "active",
+        "riskname": "Inventory Services",
+        "lang": "E"
+    },
+    {
+        "id": 502,
+        "riskid": 502,
+        "status": "active",
+        "riskname": "Irrigation - contracteurs",
+        "lang": "F"
+    },
+    {
+        "id": 501,
+        "riskid": 501,
+        "status": "active",
+        "riskname": "Irrigation Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 492,
+        "riskid": 492,
+        "status": "active",
+        "riskname": "Isolation-Contracteurs",
+        "lang": "F"
+    },
+    {
+        "id": 503,
+        "riskid": 503,
+        "status": "active",
+        "riskname": "Janitor Supplies Wholesale",
+        "lang": "E"
+    },
+    {
+        "id": 505,
+        "riskid": 505,
+        "status": "active",
+        "riskname": "Janitorial Services - House or Office",
+        "lang": "E"
+    },
+    {
+        "id": 32,
+        "riskid": 32,
+        "status": "active",
+        "riskname": "Jeux- jeux gonflables ",
+        "lang": "F"
+    },
+    {
+        "id": 507,
+        "riskid": 507,
+        "status": "active",
+        "riskname": "Jewelry Stor Es (no crime) - Named Perils",
+        "lang": "E"
+    },
+    {
+        "id": 869,
+        "riskid": 869,
+        "status": "active",
+        "riskname": "Jouets et jeux-fabricants",
+        "lang": "F"
+    },
+    {
+        "id": 509,
+        "riskid": 509,
+        "status": "active",
+        "riskname": "Kitchenware & Houseware Stor Es",
+        "lang": "E"
+    },
+    {
+        "id": 278,
+        "riskid": 278,
+        "status": "active",
+        "riskname": "Laboratoires dentaires",
+        "lang": "F"
+    },
+    {
+        "id": 578,
+        "riskid": 578,
+        "status": "active",
+        "riskname": "Laboratoires médicaux (lieux occupés- n`incluant pas les erreurs et omissions)",
+        "lang": "E"
+    },
+    {
+        "id": 586,
+        "riskid": 586,
+        "status": "active",
+        "riskname": "lait et produits laitier-Fabricants et producteurs",
+        "lang": "F"
+    },
+    {
+        "id": 532,
+        "riskid": 532,
+        "status": "active",
+        "riskname": "Lampes, lumière et équipement-grossiste",
+        "lang": "F"
+    },
+    {
+        "id": 511,
+        "riskid": 511,
+        "status": "active",
+        "riskname": "Landscape Architects (office only)",
+        "lang": "E"
+    },
+    {
+        "id": 513,
+        "riskid": 513,
+        "status": "active",
+        "riskname": "Landscape Maintenance Services",
+        "lang": "E"
+    },
+    {
+        "id": 515,
+        "riskid": 515,
+        "status": "active",
+        "riskname": "Laundries",
+        "lang": "E"
+    },
+    {
+        "id": 517,
+        "riskid": 517,
+        "status": "active",
+        "riskname": "Laundries - Coin-Op (attended only)",
+        "lang": "E"
+    },
+    {
+        "id": 168,
+        "riskid": 168,
+        "status": "active",
+        "riskname": "Lave-autos",
+        "lang": "F"
+    },
+    {
+        "id": 519,
+        "riskid": 519,
+        "status": "active",
+        "riskname": "Lawn Mower Dealers",
+        "lang": "E"
+    },
+    {
+        "id": 521,
+        "riskid": 521,
+        "status": "active",
+        "riskname": "Lawn Mower Sharpening & Repair",
+        "lang": "E"
+    },
+    {
+        "id": 523,
+        "riskid": 523,
+        "status": "active",
+        "riskname": "Lawyers - Excl. E&O",
+        "lang": "E"
+    },
+    {
+        "id": 525,
+        "riskid": 525,
+        "status": "active",
+        "riskname": "Leather Goods & Handbag Shops",
+        "lang": "E"
+    },
+    {
+        "id": 484,
+        "riskid": 484,
+        "status": "active",
+        "riskname": "Levage et ransports de maisons - Contracteurs",
+        "lang": "F"
+    },
+    {
+        "id": 112,
+        "riskid": 112,
+        "status": "active",
+        "riskname": "Librairies- livres neufs",
+        "lang": "F"
+    },
+    {
+        "id": 527,
+        "riskid": 527,
+        "status": "active",
+        "riskname": "Libraries",
+        "lang": "E"
+    },
+    {
+        "id": 529,
+        "riskid": 529,
+        "status": "active",
+        "riskname": "Lighting Consultants",
+        "lang": "E"
+    },
+    {
+        "id": 531,
+        "riskid": 531,
+        "status": "active",
+        "riskname": "Lighting Fixture - Wholesalers",
+        "lang": "E"
+    },
+    {
+        "id": 533,
+        "riskid": 533,
+        "status": "active",
+        "riskname": "Limousine Services- No Auto",
+        "lang": "E"
+    },
+    {
+        "id": 535,
+        "riskid": 535,
+        "status": "active",
+        "riskname": "Linen Supply Services",
+        "lang": "E"
+    },
+    {
+        "id": 537,
+        "riskid": 537,
+        "status": "active",
+        "riskname": "Linoleum & Non-Ceramic Tile Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 539,
+        "riskid": 539,
+        "status": "active",
+        "riskname": "Liquor Stor Es",
+        "lang": "E"
+    },
+    {
+        "id": 541,
+        "riskid": 541,
+        "status": "active",
+        "riskname": "Loan Companies (no crime)",
+        "lang": "E"
+    },
+    {
+        "id": 166,
+        "riskid": 166,
+        "status": "active",
+        "riskname": "Location d'autos à court et long terms (sans assurance automobile)",
+        "lang": "F"
+    },
+    {
+        "id": 214,
+        "riskid": 214,
+        "status": "active",
+        "riskname": "Location de vêtements et costumes",
+        "lang": "F"
+    },
+    {
+        "id": 352,
+        "riskid": 352,
+        "status": "active",
+        "riskname": "Location d`équipement et d`outils-Service",
+        "lang": "F"
+    },
+    {
+        "id": 543,
+        "riskid": 543,
+        "status": "active",
+        "riskname": "Locksmiths",
+        "lang": "E"
+    },
+    {
+        "id": 545,
+        "riskid": 545,
+        "status": "active",
+        "riskname": "Logging Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 727,
+        "riskid": 727,
+        "status": "active",
+        "riskname": "Logis offert en location",
+        "lang": "F"
+    },
+    {
+        "id": 547,
+        "riskid": 547,
+        "status": "active",
+        "riskname": "Lumber & Building Materials Dealers",
+        "lang": "E"
+    },
+    {
+        "id": 549,
+        "riskid": 549,
+        "status": "active",
+        "riskname": "Lunchroom & Lunch Counters",
+        "lang": "E"
+    },
+    {
+        "id": 551,
+        "riskid": 551,
+        "status": "active",
+        "riskname": "Machine Shops",
+        "lang": "E"
+    },
+    {
+        "id": 901,
+        "riskid": 901,
+        "status": "active",
+        "riskname": "Machines à laver- Réparation",
+        "lang": "F"
+    },
+    {
+        "id": 570,
+        "riskid": 570,
+        "status": "active",
+        "riskname": "Maçonnerie-pose de briques et pierres-Contracteurs",
+        "lang": "F"
+    },
+    {
+        "id": 793,
+        "riskid": 793,
+        "status": "active",
+        "riskname": "Magasin accessoires sportifs- armes à feu et fusils",
+        "lang": "F"
+    },
+    {
+        "id": 795,
+        "riskid": 795,
+        "status": "active",
+        "riskname": "Magasin accessoires sportifs- sans armes à feu ou fusils",
+        "lang": "F"
+    },
+    {
+        "id": 282,
+        "riskid": 282,
+        "status": "active",
+        "riskname": "Magasins à rayons",
+        "lang": "F"
+    },
+    {
+        "id": 733,
+        "riskid": 733,
+        "status": "active",
+        "riskname": "Magasins de détail-sans classification",
+        "lang": "F"
+    },
+    {
+        "id": 715,
+        "riskid": 715,
+        "status": "active",
+        "riskname": "Magasins de radios et télévisions",
+        "lang": "F"
+    },
+    {
+        "id": 553,
+        "riskid": 553,
+        "status": "active",
+        "riskname": "Magazine & Newspaper Distributors",
+        "lang": "E"
+    },
+    {
+        "id": 554,
+        "riskid": 554,
+        "status": "active",
+        "riskname": "Magazines et journaux-Distributeurs",
+        "lang": "F"
+    },
+    {
+        "id": 106,
+        "riskid": 106,
+        "status": "active",
+        "riskname": "Maisons de chambres, pensions",
+        "lang": "F"
+    },
+    {
+        "id": 242,
+        "riskid": 242,
+        "status": "active",
+        "riskname": "Maisons de repos, de soins et convalescence",
+        "lang": "F"
+    },
+    {
+        "id": 622,
+        "riskid": 622,
+        "status": "active",
+        "riskname": "Maisons de soins repos et de convalescence",
+        "lang": "F"
+    },
+    {
+        "id": 815,
+        "riskid": 815,
+        "status": "active",
+        "riskname": "Maisons d`étudiants",
+        "lang": "F"
+    },
+    {
+        "id": 414,
+        "riskid": 414,
+        "status": "active",
+        "riskname": "Maisons funéraires",
+        "lang": "F"
+    },
+    {
+        "id": 590,
+        "riskid": 590,
+        "status": "active",
+        "riskname": "maisons mobiles et modulaires-Fabricants",
+        "lang": "F"
+    },
+    {
+        "id": 588,
+        "riskid": 588,
+        "status": "active",
+        "riskname": "maisons mobiles et modulaires-Marchands",
+        "lang": "F"
+    },
+    {
+        "id": 871,
+        "riskid": 871,
+        "status": "active",
+        "riskname": "Maisons mobiles et roulottes-fabricants",
+        "lang": "F"
+    },
+    {
+        "id": 555,
+        "riskid": 555,
+        "status": "active",
+        "riskname": "Management Consultants",
+        "lang": "E"
+    },
+    {
+        "id": 557,
+        "riskid": 557,
+        "status": "active",
+        "riskname": "Manufacturers NOC",
+        "lang": "E"
+    },
+    {
+        "id": 559,
+        "riskid": 559,
+        "status": "active",
+        "riskname": "Manufacturing Agents & Reps",
+        "lang": "E"
+    },
+    {
+        "id": 150,
+        "riskid": 150,
+        "status": "active",
+        "riskname": "Marchands d équipement photographique",
+        "lang": "F"
+    },
+    {
+        "id": 328,
+        "riskid": 328,
+        "status": "active",
+        "riskname": "Marchands d'appareils électriques et ménagers",
+        "lang": "F"
+    },
+    {
+        "id": 548,
+        "riskid": 548,
+        "status": "active",
+        "riskname": "Marchands de bois et matériaux",
+        "lang": "F"
+    },
+    {
+        "id": 887,
+        "riskid": 887,
+        "status": "active",
+        "riskname": "Marchands de camions-neufs et usagés",
+        "lang": "F"
+    },
+    {
+        "id": 194,
+        "riskid": 194,
+        "status": "active",
+        "riskname": "Marchands de fromage",
+        "lang": "F"
+    },
+    {
+        "id": 857,
+        "riskid": 857,
+        "status": "active",
+        "riskname": "Marchands de pneus",
+        "lang": "F"
+    },
+    {
+        "id": 839,
+        "riskid": 839,
+        "status": "active",
+        "riskname": "Marchands de televiseurs et radio (voir regles applicables a protection contre le crime)",
+        "lang": "F"
+    },
+    {
+        "id": 218,
+        "riskid": 218,
+        "status": "active",
+        "riskname": "Marchands de timbres et pièces de monnaie (sans assurance Crime)",
+        "lang": "F"
+    },
+    {
+        "id": 801,
+        "riskid": 801,
+        "status": "active",
+        "riskname": "Marchands d`équipement stéréo",
+        "lang": "F"
+    },
+    {
+        "id": 915,
+        "riskid": 915,
+        "status": "active",
+        "riskname": "Mariage-conseillers",
+        "lang": "F"
+    },
+    {
+        "id": 561,
+        "riskid": 561,
+        "status": "active",
+        "riskname": "Marinas & Yacht Clubs",
+        "lang": "E"
+    },
+    {
+        "id": 563,
+        "riskid": 563,
+        "status": "active",
+        "riskname": "Marketing Consultants",
+        "lang": "E"
+    },
+    {
+        "id": 565,
+        "riskid": 565,
+        "status": "active",
+        "riskname": "Marketing Research Firms",
+        "lang": "E"
+    },
+    {
+        "id": 564,
+        "riskid": 564,
+        "status": "active",
+        "riskname": "Marketing-consultants",
+        "lang": "F"
+    },
+    {
+        "id": 566,
+        "riskid": 566,
+        "status": "active",
+        "riskname": "Marketing-firmes de recherche",
+        "lang": "F"
+    },
+    {
+        "id": 567,
+        "riskid": 567,
+        "status": "active",
+        "riskname": "Marriage and Family Counseling Services",
+        "lang": "E"
+    },
+    {
+        "id": 569,
+        "riskid": 569,
+        "status": "active",
+        "riskname": "Masonry & Stonework Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 571,
+        "riskid": 571,
+        "status": "active",
+        "riskname": "Massage Therapists",
+        "lang": "E"
+    },
+    {
+        "id": 572,
+        "riskid": 572,
+        "status": "active",
+        "riskname": "Massothérapeute",
+        "lang": "F"
+    },
+    {
+        "id": 236,
+        "riskid": 236,
+        "status": "active",
+        "riskname": "Matériaux de construction-grossistes",
+        "lang": "F"
+    },
+    {
+        "id": 136,
+        "riskid": 136,
+        "status": "active",
+        "riskname": "Matériaux de construction-Vente en gros",
+        "lang": "F"
+    },
+    {
+        "id": 628,
+        "riskid": 628,
+        "status": "active",
+        "riskname": "Matériel de burau et papeterie-Détaillants",
+        "lang": "F"
+    },
+    {
+        "id": 272,
+        "riskid": 272,
+        "status": "active",
+        "riskname": "Matériel de décoration d' intérieur",
+        "lang": "F"
+    },
+    {
+        "id": 82,
+        "riskid": 82,
+        "status": "active",
+        "riskname": "Matériel de réparation et service automobile-Distribution",
+        "lang": "F"
+    },
+    {
+        "id": 428,
+        "riskid": 428,
+        "status": "active",
+        "riskname": "Matériel pour fermes et jardinage-Vente",
+        "lang": "F"
+    },
+    {
+        "id": 573,
+        "riskid": 573,
+        "status": "active",
+        "riskname": "Meat - Freezer & Locker Business",
+        "lang": "E"
+    },
+    {
+        "id": 680,
+        "riskid": 680,
+        "status": "active",
+        "riskname": "Médecins- assurances pour cliniques",
+        "lang": "F"
+    },
+    {
+        "id": 575,
+        "riskid": 575,
+        "status": "active",
+        "riskname": "Media Storage Centers",
+        "lang": "E"
+    },
+    {
+        "id": 577,
+        "riskid": 577,
+        "status": "active",
+        "riskname": "Medical Labs - No E & O Premises",
+        "lang": "E"
+    },
+    {
+        "id": 579,
+        "riskid": 579,
+        "status": "active",
+        "riskname": "Membership Organizations - Professional",
+        "lang": "E"
+    },
+    {
+        "id": 582,
+        "riskid": 582,
+        "status": "active",
+        "riskname": "Metal et produits métalliers-fabrication",
+        "lang": "F"
+    },
+    {
+        "id": 581,
+        "riskid": 581,
+        "status": "active",
+        "riskname": "Metal Work Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 911,
+        "riskid": 911,
+        "status": "active",
+        "riskname": "Météorologues- firmes privées",
+        "lang": "F"
+    },
+    {
+        "id": 420,
+        "riskid": 420,
+        "status": "active",
+        "riskname": "Meubles et ameublement-fabricants",
+        "lang": "F"
+    },
+    {
+        "id": 416,
+        "riskid": 416,
+        "status": "active",
+        "riskname": "Meubles et ameublement-Magasins et grossistes",
+        "lang": "F"
+    },
+    {
+        "id": 418,
+        "riskid": 418,
+        "status": "active",
+        "riskname": "Meubles et rembourage-réparation",
+        "lang": "F"
+    },
+    {
+        "id": 583,
+        "riskid": 583,
+        "status": "active",
+        "riskname": "Microfilming Services",
+        "lang": "E"
+    },
+    {
+        "id": 585,
+        "riskid": 585,
+        "status": "active",
+        "riskname": "Milk Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 587,
+        "riskid": 587,
+        "status": "active",
+        "riskname": "Mobile Home Dealer",
+        "lang": "E"
+    },
+    {
+        "id": 589,
+        "riskid": 589,
+        "status": "active",
+        "riskname": "Mobile Home Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 591,
+        "riskid": 591,
+        "status": "active",
+        "riskname": "Mobile Home Parks",
+        "lang": "E"
+    },
+    {
+        "id": 226,
+        "riskid": 226,
+        "status": "active",
+        "riskname": "Monteurs de ligne & systèmes de communication",
+        "lang": "F"
+    },
+    {
+        "id": 593,
+        "riskid": 593,
+        "status": "active",
+        "riskname": "Mortgage Companies ",
+        "lang": "E"
+    },
+    {
+        "id": 595,
+        "riskid": 595,
+        "status": "active",
+        "riskname": "Motels & Hotels (2 story & under)",
+        "lang": "E"
+    },
+    {
+        "id": 596,
+        "riskid": 596,
+        "status": "active",
+        "riskname": "Motels et hôtels (2 étages et moins)",
+        "lang": "F"
+    },
+    {
+        "id": 602,
+        "riskid": 602,
+        "status": "active",
+        "riskname": "Motocyclettes et motos-marchands",
+        "lang": "F"
+    },
+    {
+        "id": 597,
+        "riskid": 597,
+        "status": "active",
+        "riskname": "Motor Truck Cargo",
+        "lang": "E"
+    },
+    {
+        "id": 599,
+        "riskid": 599,
+        "status": "active",
+        "riskname": "Motor Vehicle Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 601,
+        "riskid": 601,
+        "status": "active",
+        "riskname": "Motorcycle Dealers",
+        "lang": "E"
+    },
+    {
+        "id": 603,
+        "riskid": 603,
+        "status": "active",
+        "riskname": "Muffler Shops",
+        "lang": "E"
+    },
+    {
+        "id": 605,
+        "riskid": 605,
+        "status": "active",
+        "riskname": "Municipality Application",
+        "lang": "E"
+    },
+    {
+        "id": 608,
+        "riskid": 608,
+        "status": "active",
+        "riskname": "Musées",
+        "lang": "F"
+    },
+    {
+        "id": 607,
+        "riskid": 607,
+        "status": "active",
+        "riskname": "Museums",
+        "lang": "E"
+    },
+    {
+        "id": 609,
+        "riskid": 609,
+        "status": "active",
+        "riskname": "Music Stor Es",
+        "lang": "E"
+    },
+    {
+        "id": 611,
+        "riskid": 611,
+        "status": "active",
+        "riskname": "Nail Salons",
+        "lang": "E"
+    },
+    {
+        "id": 614,
+        "riskid": 614,
+        "status": "active",
+        "riskname": "Naturopathes",
+        "lang": "F"
+    },
+    {
+        "id": 613,
+        "riskid": 613,
+        "status": "active",
+        "riskname": "Naturopaths",
+        "lang": "E"
+    },
+    {
+        "id": 316,
+        "riskid": 316,
+        "status": "active",
+        "riskname": "Nettoyeurs à sec",
+        "lang": "F"
+    },
+    {
+        "id": 206,
+        "riskid": 206,
+        "status": "active",
+        "riskname": "Nettoyeurs à sec et teinturiers",
+        "lang": "F"
+    },
+    {
+        "id": 366,
+        "riskid": 366,
+        "status": "active",
+        "riskname": "Nourriture pour animaux-Fabricants",
+        "lang": "F"
+    },
+    {
+        "id": 615,
+        "riskid": 615,
+        "status": "active",
+        "riskname": "Novelty Shops",
+        "lang": "E"
+    },
+    {
+        "id": 617,
+        "riskid": 617,
+        "status": "active",
+        "riskname": "Nursery & Garden Stor Es",
+        "lang": "E"
+    },
+    {
+        "id": 619,
+        "riskid": 619,
+        "status": "active",
+        "riskname": "Nurserymen",
+        "lang": "E"
+    },
+    {
+        "id": 621,
+        "riskid": 621,
+        "status": "active",
+        "riskname": "Nursing & Rest Homes - Excl. Professionals",
+        "lang": "E"
+    },
+    {
+        "id": 616,
+        "riskid": 616,
+        "status": "active",
+        "riskname": "Objets artisanaux",
+        "lang": "F"
+    },
+    {
+        "id": 757,
+        "riskid": 757,
+        "status": "active",
+        "riskname": "Objets usagés et seconde main-marchands",
+        "lang": "F"
+    },
+    {
+        "id": 623,
+        "riskid": 623,
+        "status": "active",
+        "riskname": "Occupational Health and Safety Consultants",
+        "lang": "E"
+    },
+    {
+        "id": 324,
+        "riskid": 324,
+        "status": "active",
+        "riskname": "Oeufs et volaille-production et transformation",
+        "lang": "F"
+    },
+    {
+        "id": 625,
+        "riskid": 625,
+        "status": "active",
+        "riskname": "Office Machine Wholesalers",
+        "lang": "E"
+    },
+    {
+        "id": 627,
+        "riskid": 627,
+        "status": "active",
+        "riskname": "Office Supply Stor Es",
+        "lang": "E"
+    },
+    {
+        "id": 865,
+        "riskid": 865,
+        "status": "active",
+        "riskname": "Opérateurs de tours guides",
+        "lang": "F"
+    },
+    {
+        "id": 629,
+        "riskid": 629,
+        "status": "active",
+        "riskname": "Opticians",
+        "lang": "E"
+    },
+    {
+        "id": 630,
+        "riskid": 630,
+        "status": "active",
+        "riskname": "Opticiens",
+        "lang": "F"
+    },
+    {
+        "id": 632,
+        "riskid": 632,
+        "status": "active",
+        "riskname": "Optométristes",
+        "lang": "F"
+    },
+    {
+        "id": 631,
+        "riskid": 631,
+        "status": "active",
+        "riskname": "Optometrists",
+        "lang": "E"
+    },
+    {
+        "id": 633,
+        "riskid": 633,
+        "status": "active",
+        "riskname": "or E Mining",
+        "lang": "E"
+    },
+    {
+        "id": 580,
+        "riskid": 580,
+        "status": "active",
+        "riskname": "Ordres et associations professionelles",
+        "lang": "F"
+    },
+    {
+        "id": 246,
+        "riskid": 246,
+        "status": "active",
+        "riskname": "Organisateurs de conférences et conventions",
+        "lang": "F"
+    },
+    {
+        "id": 635,
+        "riskid": 635,
+        "status": "active",
+        "riskname": "Ornamental Metal Manufacturers (non- structural)",
+        "lang": "E"
+    },
+    {
+        "id": 791,
+        "riskid": 791,
+        "status": "active",
+        "riskname": "Orthophonistes",
+        "lang": "F"
+    },
+    {
+        "id": 637,
+        "riskid": 637,
+        "status": "active",
+        "riskname": "Outdoor Advertising Services",
+        "lang": "E"
+    },
+    {
+        "id": 863,
+        "riskid": 863,
+        "status": "active",
+        "riskname": "Outils portables et à main-fabricants",
+        "lang": "F"
+    },
+    {
+        "id": 861,
+        "riskid": 861,
+        "status": "active",
+        "riskname": "Outils  et outils de filetage- Fabricants",
+        "lang": "F"
+    },
+    {
+        "id": 639,
+        "riskid": 639,
+        "status": "active",
+        "riskname": "Owner Occupied Dwellings",
+        "lang": "E"
+    },
+    {
+        "id": 641,
+        "riskid": 641,
+        "status": "active",
+        "riskname": "Paging Calling Equipment Wholesalers",
+        "lang": "E"
+    },
+    {
+        "id": 643,
+        "riskid": 643,
+        "status": "active",
+        "riskname": "Paint Dealers",
+        "lang": "E"
+    },
+    {
+        "id": 645,
+        "riskid": 645,
+        "status": "active",
+        "riskname": "Paint Glass Wallpaper Dealers",
+        "lang": "E"
+    },
+    {
+        "id": 647,
+        "riskid": 647,
+        "status": "active",
+        "riskname": "Paint, Paperhanging & Decorating Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 650,
+        "riskid": 650,
+        "status": "active",
+        "riskname": "Palettes et mini-pallette en bois-Fabricants",
+        "lang": "F"
+    },
+    {
+        "id": 649,
+        "riskid": 649,
+        "status": "active",
+        "riskname": "Pallet & Skid Manufacturers - Wood",
+        "lang": "E"
+    },
+    {
+        "id": 651,
+        "riskid": 651,
+        "status": "active",
+        "riskname": "Paper Products Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 799,
+        "riskid": 799,
+        "status": "active",
+        "riskname": "Papeteries",
+        "lang": "F"
+    },
+    {
+        "id": 652,
+        "riskid": 652,
+        "status": "active",
+        "riskname": "Papiers et produits dérivés-fabricants",
+        "lang": "F"
+    },
+    {
+        "id": 653,
+        "riskid": 653,
+        "status": "active",
+        "riskname": "Paralegal Offices",
+        "lang": "E"
+    },
+    {
+        "id": 592,
+        "riskid": 592,
+        "status": "active",
+        "riskname": "Parcs de maisons mobiles",
+        "lang": "F"
+    },
+    {
+        "id": 660,
+        "riskid": 660,
+        "status": "active",
+        "riskname": "Parfums et cosmétiques-fabricants",
+        "lang": "F"
+    },
+    {
+        "id": 655,
+        "riskid": 655,
+        "status": "active",
+        "riskname": "Pawnbrokers",
+        "lang": "E"
+    },
+    {
+        "id": 644,
+        "riskid": 644,
+        "status": "active",
+        "riskname": "Peinture et équipement de peinture-Détaillants",
+        "lang": "F"
+    },
+    {
+        "id": 648,
+        "riskid": 648,
+        "status": "active",
+        "riskname": "Peinture et tapisserie-Contracteurs",
+        "lang": "F"
+    },
+    {
+        "id": 646,
+        "riskid": 646,
+        "status": "active",
+        "riskname": "Peinture sur verre et vitraux-Marchands",
+        "lang": "F"
+    },
+    {
+        "id": 657,
+        "riskid": 657,
+        "status": "active",
+        "riskname": "Pension Plan Consultants",
+        "lang": "E"
+    },
+    {
+        "id": 618,
+        "riskid": 618,
+        "status": "active",
+        "riskname": "Pépinières et centres jardin",
+        "lang": "F"
+    },
+    {
+        "id": 620,
+        "riskid": 620,
+        "status": "active",
+        "riskname": "Pépiniéristes",
+        "lang": "F"
+    },
+    {
+        "id": 659,
+        "riskid": 659,
+        "status": "active",
+        "riskname": "Perfume & Cosmetic Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 661,
+        "riskid": 661,
+        "status": "active",
+        "riskname": "Personal Trainers",
+        "lang": "E"
+    },
+    {
+        "id": 917,
+        "riskid": 917,
+        "status": "active",
+        "riskname": "Perte-de poids-cliniques",
+        "lang": "F"
+    },
+    {
+        "id": 663,
+        "riskid": 663,
+        "status": "active",
+        "riskname": "Pest Control",
+        "lang": "E"
+    },
+    {
+        "id": 665,
+        "riskid": 665,
+        "status": "active",
+        "riskname": "Pesticide & Herbicide Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 666,
+        "riskid": 666,
+        "status": "active",
+        "riskname": "Pesticides et herbicides-fabricants",
+        "lang": "F"
+    },
+    {
+        "id": 667,
+        "riskid": 667,
+        "status": "active",
+        "riskname": "Pet Food Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 669,
+        "riskid": 669,
+        "status": "active",
+        "riskname": "Pet Shops",
+        "lang": "E"
+    },
+    {
+        "id": 314,
+        "riskid": 314,
+        "status": "active",
+        "riskname": "Pharmacies-erreur professionelle exclue",
+        "lang": "F"
+    },
+    {
+        "id": 674,
+        "riskid": 674,
+        "status": "active",
+        "riskname": "Photo finition- laboratoires",
+        "lang": "F"
+    },
+    {
+        "id": 104,
+        "riskid": 104,
+        "status": "active",
+        "riskname": "Photocopie & reproduction de plans et devis",
+        "lang": "F"
+    },
+    {
+        "id": 671,
+        "riskid": 671,
+        "status": "active",
+        "riskname": "Photocopying Services",
+        "lang": "E"
+    },
+    {
+        "id": 673,
+        "riskid": 673,
+        "status": "active",
+        "riskname": "Photofinishing Laboratories",
+        "lang": "E"
+    },
+    {
+        "id": 675,
+        "riskid": 675,
+        "status": "active",
+        "riskname": "Photographers - Commercial",
+        "lang": "E"
+    },
+    {
+        "id": 676,
+        "riskid": 676,
+        "status": "active",
+        "riskname": "Photographes commerciaux",
+        "lang": "F"
+    },
+    {
+        "id": 677,
+        "riskid": 677,
+        "status": "active",
+        "riskname": "Photographic Studios",
+        "lang": "E"
+    },
+    {
+        "id": 679,
+        "riskid": 679,
+        "status": "active",
+        "riskname": "Physicians - Premises only",
+        "lang": "E"
+    },
+    {
+        "id": 682,
+        "riskid": 682,
+        "status": "active",
+        "riskname": "Physiothérapeutes",
+        "lang": "F"
+    },
+    {
+        "id": 681,
+        "riskid": 681,
+        "status": "active",
+        "riskname": "Physiotherapists",
+        "lang": "E"
+    },
+    {
+        "id": 683,
+        "riskid": 683,
+        "status": "active",
+        "riskname": "Piano & Organ Stor Es",
+        "lang": "E"
+    },
+    {
+        "id": 685,
+        "riskid": 685,
+        "status": "active",
+        "riskname": "Piano Tuning Services",
+        "lang": "E"
+    },
+    {
+        "id": 684,
+        "riskid": 684,
+        "status": "active",
+        "riskname": "Pianos et orgues-Marchands",
+        "lang": "F"
+    },
+    {
+        "id": 686,
+        "riskid": 686,
+        "status": "active",
+        "riskname": "Pianos-Service et accordage",
+        "lang": "F"
+    },
+    {
+        "id": 452,
+        "riskid": 452,
+        "status": "active",
+        "riskname": "piceries et supermarchés-grossistes",
+        "lang": "F"
+    },
+    {
+        "id": 78,
+        "riskid": 78,
+        "status": "active",
+        "riskname": "Pièces et accessoires d`auto",
+        "lang": "F"
+    },
+    {
+        "id": 823,
+        "riskid": 823,
+        "status": "active",
+        "riskname": "Piscines publiques",
+        "lang": "F"
+    },
+    {
+        "id": 821,
+        "riskid": 821,
+        "status": "active",
+        "riskname": "Piscines-contracteurs",
+        "lang": "F"
+    },
+    {
+        "id": 658,
+        "riskid": 658,
+        "status": "active",
+        "riskname": "Plans et conseil retraite",
+        "lang": "F"
+    },
+    {
+        "id": 687,
+        "riskid": 687,
+        "status": "active",
+        "riskname": "Plaster Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 689,
+        "riskid": 689,
+        "status": "active",
+        "riskname": "Plastic Products Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 690,
+        "riskid": 690,
+        "status": "active",
+        "riskname": "Plastiques et dérivés-Fabricants",
+        "lang": "F"
+    },
+    {
+        "id": 688,
+        "riskid": 688,
+        "status": "active",
+        "riskname": "Plâtriers",
+        "lang": "F"
+    },
+    {
+        "id": 694,
+        "riskid": 694,
+        "status": "active",
+        "riskname": "Plomberie et chauffage-contracteur",
+        "lang": "F"
+    },
+    {
+        "id": 692,
+        "riskid": 692,
+        "status": "active",
+        "riskname": "Plomberie et chauffage-Équipment-grossiste",
+        "lang": "F"
+    },
+    {
+        "id": 691,
+        "riskid": 691,
+        "status": "active",
+        "riskname": "Plumbing & Heating Equipment Wholesale",
+        "lang": "E"
+    },
+    {
+        "id": 693,
+        "riskid": 693,
+        "status": "active",
+        "riskname": "Plumbing Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 695,
+        "riskid": 695,
+        "status": "active",
+        "riskname": "Plywood & Veneer Plants",
+        "lang": "E"
+    },
+    {
+        "id": 698,
+        "riskid": 698,
+        "status": "active",
+        "riskname": "Podiâtres et podologues",
+        "lang": "F"
+    },
+    {
+        "id": 697,
+        "riskid": 697,
+        "status": "active",
+        "riskname": "Podiatrists",
+        "lang": "E"
+    },
+    {
+        "id": 196,
+        "riskid": 196,
+        "status": "active",
+        "riskname": "Podologues et podiâtres-(Assurance bureau uniquement)",
+        "lang": "F"
+    },
+    {
+        "id": 378,
+        "riskid": 378,
+        "status": "active",
+        "riskname": "Poisson et fuits de mer- usines d' encannage",
+        "lang": "F"
+    },
+    {
+        "id": 382,
+        "riskid": 382,
+        "status": "active",
+        "riskname": "Poissons et fruits de mer-Distribution en gros",
+        "lang": "F"
+    },
+    {
+        "id": 380,
+        "riskid": 380,
+        "status": "active",
+        "riskname": "Poissons et fruits de mer-usines de transformation produits frais et congelés",
+        "lang": "F"
+    },
+    {
+        "id": 707,
+        "riskid": 707,
+        "status": "active",
+        "riskname": "Pompes-grossistes",
+        "lang": "F"
+    },
+    {
+        "id": 883,
+        "riskid": 883,
+        "status": "active",
+        "riskname": "Portes, fenêtres contours et moulures",
+        "lang": "F"
+    },
+    {
+        "id": 700,
+        "riskid": 700,
+        "status": "active",
+        "riskname": "Poteries-potiers et céramistes",
+        "lang": "F"
+    },
+    {
+        "id": 699,
+        "riskid": 699,
+        "status": "active",
+        "riskname": "Pottery Products Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 538,
+        "riskid": 538,
+        "status": "active",
+        "riskname": "Prélarts et tuiles (non céramique) - contracteur",
+        "lang": "F"
+    },
+    {
+        "id": 785,
+        "riskid": 785,
+        "status": "active",
+        "riskname": "Préparation du sol pour agriculture",
+        "lang": "F"
+    },
+    {
+        "id": 656,
+        "riskid": 656,
+        "status": "active",
+        "riskname": "Prêts sur gage-Boutiques",
+        "lang": "F"
+    },
+    {
+        "id": 624,
+        "riskid": 624,
+        "status": "active",
+        "riskname": "Prévention et sécurité au travail-Consultant",
+        "lang": "F"
+    },
+    {
+        "id": 702,
+        "riskid": 702,
+        "status": "active",
+        "riskname": "Printing and Allied Industries",
+        "lang": "E"
+    },
+    {
+        "id": 406,
+        "riskid": 406,
+        "status": "active",
+        "riskname": "Producteurs de fruis et légumes encannés",
+        "lang": "F"
+    },
+    {
+        "id": 404,
+        "riskid": 404,
+        "status": "active",
+        "riskname": "Producteurs de fruits et légumes congelés",
+        "lang": "F"
+    },
+    {
+        "id": 256,
+        "riskid": 256,
+        "status": "active",
+        "riskname": "Producteurs de produits laitiers",
+        "lang": "F"
+    },
+    {
+        "id": 90,
+        "riskid": 90,
+        "status": "active",
+        "riskname": "produits de boulangerie-Vente, distribution au détail",
+        "lang": "F"
+    },
+    {
+        "id": 358,
+        "riskid": 358,
+        "status": "active",
+        "riskname": "Produits métalliques-fabrication",
+        "lang": "F"
+    },
+    {
+        "id": 92,
+        "riskid": 92,
+        "status": "active",
+        "riskname": "Produits pâtissiers et boulangerie-préparation",
+        "lang": "F"
+    },
+    {
+        "id": 536,
+        "riskid": 536,
+        "status": "active",
+        "riskname": "Produits textiles et draps",
+        "lang": "F"
+    },
+    {
+        "id": 893,
+        "riskid": 893,
+        "status": "active",
+        "riskname": "Produits vendus aux Etats-Unis",
+        "lang": "F"
+    },
+    {
+        "id": 704,
+        "riskid": 704,
+        "status": "active",
+        "riskname": "Property Management Firms",
+        "lang": "E"
+    },
+    {
+        "id": 706,
+        "riskid": 706,
+        "status": "active",
+        "riskname": "Pump Wholesalers",
+        "lang": "E"
+    },
+    {
+        "id": 708,
+        "riskid": 708,
+        "status": "active",
+        "riskname": "Quality Control Consultants",
+        "lang": "E"
+    },
+    {
+        "id": 464,
+        "riskid": 464,
+        "status": "active",
+        "riskname": "Quincailleries",
+        "lang": "F"
+    },
+    {
+        "id": 642,
+        "riskid": 642,
+        "status": "active",
+        "riskname": "quipement de pagination et radiomessagerie-Grossiste",
+        "lang": "F"
+    },
+    {
+        "id": 729,
+        "riskid": 729,
+        "status": "active",
+        "riskname": "quipement de restauration-grossistes",
+        "lang": "F"
+    },
+    {
+        "id": 626,
+        "riskid": 626,
+        "status": "active",
+        "riskname": "quipement et machines de bureau-Grossiste",
+        "lang": "F"
+    },
+    {
+        "id": 350,
+        "riskid": 350,
+        "status": "active",
+        "riskname": "quipement et matériel d`entrepreneurs-entrepreneurs grossistes",
+        "lang": "F"
+    },
+    {
+        "id": 340,
+        "riskid": 340,
+        "status": "active",
+        "riskname": "quipement et pièces électroniques",
+        "lang": "F"
+    },
+    {
+        "id": 240,
+        "riskid": 240,
+        "status": "active",
+        "riskname": "quipment d' entrepreneurs",
+        "lang": "F"
+    },
+    {
+        "id": 710,
+        "riskid": 710,
+        "status": "active",
+        "riskname": "Racquet and Fitness Clubs",
+        "lang": "E"
+    },
+    {
+        "id": 712,
+        "riskid": 712,
+        "status": "active",
+        "riskname": "Radiator Repair Shops - Auto",
+        "lang": "E"
+    },
+    {
+        "id": 714,
+        "riskid": 714,
+        "status": "active",
+        "riskname": "Radio & TV Stor Es ",
+        "lang": "E"
+    },
+    {
+        "id": 716,
+        "riskid": 716,
+        "status": "active",
+        "riskname": "Radio Stations - Excl. Advertising, Liable & Slander",
+        "lang": "E"
+    },
+    {
+        "id": 718,
+        "riskid": 718,
+        "status": "active",
+        "riskname": "Ready-Mix Concrete Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 720,
+        "riskid": 720,
+        "status": "active",
+        "riskname": "Real Estate Agencies (office only)",
+        "lang": "E"
+    },
+    {
+        "id": 722,
+        "riskid": 722,
+        "status": "active",
+        "riskname": "Recording Studios",
+        "lang": "E"
+    },
+    {
+        "id": 354,
+        "riskid": 354,
+        "status": "active",
+        "riskname": "rection de structures & opérateurs de grues",
+        "lang": "F"
+    },
+    {
+        "id": 903,
+        "riskid": 903,
+        "status": "active",
+        "riskname": "Recyclage et collecte du papier",
+        "lang": "F"
+    },
+    {
+        "id": 88,
+        "riskid": 88,
+        "status": "active",
+        "riskname": "Recyclage et recupération d`automobile - ferraille",
+        "lang": "F"
+    },
+    {
+        "id": 724,
+        "riskid": 724,
+        "status": "active",
+        "riskname": "Reflexologists",
+        "lang": "E"
+    },
+    {
+        "id": 725,
+        "riskid": 725,
+        "status": "active",
+        "riskname": "Réflexologues",
+        "lang": "F"
+    },
+    {
+        "id": 114,
+        "riskid": 114,
+        "status": "active",
+        "riskname": "Reliure et travaux de reliure",
+        "lang": "F"
+    },
+    {
+        "id": 86,
+        "riskid": 86,
+        "status": "active",
+        "riskname": "Remorquage",
+        "lang": "F"
+    },
+    {
+        "id": 726,
+        "riskid": 726,
+        "status": "active",
+        "riskname": "Rented Dwellings",
+        "lang": "E"
+    },
+    {
+        "id": 210,
+        "riskid": 210,
+        "status": "active",
+        "riskname": "Réparateur de montres et bijoux-(sans assurance Crime)",
+        "lang": "F"
+    },
+    {
+        "id": 728,
+        "riskid": 728,
+        "status": "active",
+        "riskname": "Restaurant Equipment Wholesalers",
+        "lang": "E"
+    },
+    {
+        "id": 730,
+        "riskid": 730,
+        "status": "active",
+        "riskname": "Restaurants",
+        "lang": "E"
+    },
+    {
+        "id": 731,
+        "riskid": 731,
+        "status": "active",
+        "riskname": "Restaurants",
+        "lang": "F"
+    },
+    {
+        "id": 308,
+        "riskid": 308,
+        "status": "active",
+        "riskname": "Restaurants service-a-l'-auto",
+        "lang": "F"
+    },
+    {
+        "id": 364,
+        "riskid": 364,
+        "status": "active",
+        "riskname": "Restauration rapide-Franchises",
+        "lang": "F"
+    },
+    {
+        "id": 732,
+        "riskid": 732,
+        "status": "active",
+        "riskname": "Retail Stor Es - NOC",
+        "lang": "E"
+    },
+    {
+        "id": 24,
+        "riskid": 24,
+        "status": "active",
+        "riskname": "Retouches, remodelage et altération",
+        "lang": "F"
+    },
+    {
+        "id": 777,
+        "riskid": 777,
+        "status": "active",
+        "riskname": "Revêtements extérieur-contracteurs",
+        "lang": "F"
+    },
+    {
+        "id": 390,
+        "riskid": 390,
+        "status": "active",
+        "riskname": "Revêtements recouvrements de planchers- contracteurs sans classification",
+        "lang": "F"
+    },
+    {
+        "id": 386,
+        "riskid": 386,
+        "status": "active",
+        "riskname": "Revêtements recouvrements de planchers-Marchands",
+        "lang": "F"
+    },
+    {
+        "id": 388,
+        "riskid": 388,
+        "status": "active",
+        "riskname": "Revêtements recouvrements de planchers-Réfection de surface- contracteurs",
+        "lang": "F"
+    },
+    {
+        "id": 696,
+        "riskid": 696,
+        "status": "active",
+        "riskname": "Revêtements Veneer et contreplaqué-usines ",
+        "lang": "F"
+    },
+    {
+        "id": 734,
+        "riskid": 734,
+        "status": "active",
+        "riskname": "Roofing Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 807,
+        "riskid": 807,
+        "status": "active",
+        "riskname": "Routes et autoroute-construction-contracteurs",
+        "lang": "F"
+    },
+    {
+        "id": 741,
+        "riskid": 741,
+        "status": "active",
+        "riskname": "Sable et gravelle-distributeurs grossistes",
+        "lang": "F"
+    },
+    {
+        "id": 736,
+        "riskid": 736,
+        "status": "active",
+        "riskname": "Sailing Schools",
+        "lang": "E"
+    },
+    {
+        "id": 909,
+        "riskid": 909,
+        "status": "active",
+        "riskname": "Salles de bain-éviers",
+        "lang": "F"
+    },
+    {
+        "id": 462,
+        "riskid": 462,
+        "status": "active",
+        "riskname": "Salles de concert et auditoriums",
+        "lang": "F"
+    },
+    {
+        "id": 94,
+        "riskid": 94,
+        "status": "active",
+        "riskname": "Salons de barbiers",
+        "lang": "F"
+    },
+    {
+        "id": 98,
+        "riskid": 98,
+        "status": "active",
+        "riskname": "Salons de beauté (responsaibilite professionelle exclue)",
+        "lang": "F"
+    },
+    {
+        "id": 612,
+        "riskid": 612,
+        "status": "active",
+        "riskname": "Salons de pose et soins des ongles",
+        "lang": "F"
+    },
+    {
+        "id": 120,
+        "riskid": 120,
+        "status": "active",
+        "riskname": "Salons de quilles",
+        "lang": "F"
+    },
+    {
+        "id": 827,
+        "riskid": 827,
+        "status": "active",
+        "riskname": "Salons de tatouage",
+        "lang": "F"
+    },
+    {
+        "id": 738,
+        "riskid": 738,
+        "status": "active",
+        "riskname": "Sand & Gravel Mining",
+        "lang": "E"
+    },
+    {
+        "id": 740,
+        "riskid": 740,
+        "status": "active",
+        "riskname": "Sand & Gravel Wholesalers",
+        "lang": "E"
+    },
+    {
+        "id": 742,
+        "riskid": 742,
+        "status": "active",
+        "riskname": "Sanitary Services",
+        "lang": "E"
+    },
+    {
+        "id": 744,
+        "riskid": 744,
+        "status": "active",
+        "riskname": "Savings & Loan Associations (no crime)",
+        "lang": "E"
+    },
+    {
+        "id": 746,
+        "riskid": 746,
+        "status": "active",
+        "riskname": "Sawmills & Planning Mills",
+        "lang": "E"
+    },
+    {
+        "id": 748,
+        "riskid": 748,
+        "status": "active",
+        "riskname": "Scaffolding Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 750,
+        "riskid": 750,
+        "status": "active",
+        "riskname": "School Bus Companies - No Auto",
+        "lang": "E"
+    },
+    {
+        "id": 752,
+        "riskid": 752,
+        "status": "active",
+        "riskname": "Schools - NOC - Excl. Physical & Sexual Abuse",
+        "lang": "E"
+    },
+    {
+        "id": 747,
+        "riskid": 747,
+        "status": "active",
+        "riskname": "Scieries et moulins",
+        "lang": "F"
+    },
+    {
+        "id": 754,
+        "riskid": 754,
+        "status": "active",
+        "riskname": "Scrap Iron & Metal Dealers",
+        "lang": "E"
+    },
+    {
+        "id": 756,
+        "riskid": 756,
+        "status": "active",
+        "riskname": "Second-Hand Stor Es",
+        "lang": "E"
+    },
+    {
+        "id": 758,
+        "riskid": 758,
+        "status": "active",
+        "riskname": "Secretarial Services",
+        "lang": "E"
+    },
+    {
+        "id": 760,
+        "riskid": 760,
+        "status": "active",
+        "riskname": "Seed Processors",
+        "lang": "E"
+    },
+    {
+        "id": 762,
+        "riskid": 762,
+        "status": "active",
+        "riskname": "Septic Tank Installation Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 450,
+        "riskid": 450,
+        "status": "active",
+        "riskname": "Serres-Formule risques désignés",
+        "lang": "F"
+    },
+    {
+        "id": 544,
+        "riskid": 544,
+        "status": "active",
+        "riskname": "Serruriers",
+        "lang": "F"
+    },
+    {
+        "id": 248,
+        "riskid": 248,
+        "status": "active",
+        "riskname": "Service de copie et reproduction",
+        "lang": "F"
+    },
+    {
+        "id": 264,
+        "riskid": 264,
+        "status": "active",
+        "riskname": "Service de gestion de données",
+        "lang": "F"
+    },
+    {
+        "id": 534,
+        "riskid": 534,
+        "status": "active",
+        "riskname": "Service de limousine (assurance automobile non disponible)",
+        "lang": "F"
+    },
+    {
+        "id": 925,
+        "riskid": 925,
+        "status": "active",
+        "riskname": "Service de nettoyage de fenêtres (immeubles jusqu'a 2 etages)",
+        "lang": "F"
+    },
+    {
+        "id": 867,
+        "riskid": 867,
+        "status": "active",
+        "riskname": "Service de remorquage-assurance automobile",
+        "lang": "F"
+    },
+    {
+        "id": 14,
+        "riskid": 14,
+        "status": "active",
+        "riskname": "Service de réparation de compresseurs",
+        "lang": "F"
+    },
+    {
+        "id": 184,
+        "riskid": 184,
+        "status": "active",
+        "riskname": "Service de traiteurs",
+        "lang": "F"
+    },
+    {
+        "id": 764,
+        "riskid": 764,
+        "status": "active",
+        "riskname": "Service Stations - No Auto",
+        "lang": "E"
+    },
+    {
+        "id": 500,
+        "riskid": 500,
+        "status": "active",
+        "riskname": "Services d' ìnventaires",
+        "lang": "F"
+    },
+    {
+        "id": 148,
+        "riskid": 148,
+        "status": "active",
+        "riskname": "Services de calculs et statistique",
+        "lang": "F"
+    },
+    {
+        "id": 899,
+        "riskid": 899,
+        "status": "active",
+        "riskname": "Services de films et reproduction video",
+        "lang": "F"
+    },
+    {
+        "id": 837,
+        "riskid": 837,
+        "status": "active",
+        "riskname": "Services de messagerie téléphonique",
+        "lang": "F"
+    },
+    {
+        "id": 584,
+        "riskid": 584,
+        "status": "active",
+        "riskname": "Services de microfilms",
+        "lang": "F"
+    },
+    {
+        "id": 672,
+        "riskid": 672,
+        "status": "active",
+        "riskname": "Services de photocopie",
+        "lang": "F"
+    },
+    {
+        "id": 40,
+        "riskid": 40,
+        "status": "active",
+        "riskname": "services de réparation-Petits appareils",
+        "lang": "F"
+    },
+    {
+        "id": 238,
+        "riskid": 238,
+        "status": "active",
+        "riskname": "Services de restauration",
+        "lang": "F"
+    },
+    {
+        "id": 759,
+        "riskid": 759,
+        "status": "active",
+        "riskname": "Services de secrétariat",
+        "lang": "F"
+    },
+    {
+        "id": 514,
+        "riskid": 514,
+        "status": "active",
+        "riskname": "Services d`entretien paysager",
+        "lang": "F"
+    },
+    {
+        "id": 743,
+        "riskid": 743,
+        "status": "active",
+        "riskname": "Services entretien sanitaires",
+        "lang": "F"
+    },
+    {
+        "id": 60,
+        "riskid": 60,
+        "status": "active",
+        "riskname": "Services et centres de soutien et santé",
+        "lang": "F"
+    },
+    {
+        "id": 254,
+        "riskid": 254,
+        "status": "active",
+        "riskname": "Services et opérations de crémation",
+        "lang": "F"
+    },
+    {
+        "id": 140,
+        "riskid": 140,
+        "status": "active",
+        "riskname": "Services-conseils et soutiens aux entreprises - Sans Classification",
+        "lang": "F"
+    },
+    {
+        "id": 766,
+        "riskid": 766,
+        "status": "active",
+        "riskname": "Sewer Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 768,
+        "riskid": 768,
+        "status": "active",
+        "riskname": "Sheet Metal Work Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 770,
+        "riskid": 770,
+        "status": "active",
+        "riskname": "Shoe Repair Shops",
+        "lang": "E"
+    },
+    {
+        "id": 772,
+        "riskid": 772,
+        "status": "active",
+        "riskname": "Shoe Stor Es",
+        "lang": "E"
+    },
+    {
+        "id": 774,
+        "riskid": 774,
+        "status": "active",
+        "riskname": "Shopping Centers",
+        "lang": "E"
+    },
+    {
+        "id": 776,
+        "riskid": 776,
+        "status": "active",
+        "riskname": "Siding Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 778,
+        "riskid": 778,
+        "status": "active",
+        "riskname": "Sightseeing and Local Tour Operators",
+        "lang": "E"
+    },
+    {
+        "id": 780,
+        "riskid": 780,
+        "status": "active",
+        "riskname": "Sign Erection - Maintenance & Repair",
+        "lang": "E"
+    },
+    {
+        "id": 604,
+        "riskid": 604,
+        "status": "active",
+        "riskname": "Silencieux et systèmes d`échappement-ateliers",
+        "lang": "F"
+    },
+    {
+        "id": 444,
+        "riskid": 444,
+        "status": "active",
+        "riskname": "Silos à grain",
+        "lang": "F"
+    },
+    {
+        "id": 913,
+        "riskid": 913,
+        "status": "active",
+        "riskname": "Sites Internet- conception",
+        "lang": "F"
+    },
+    {
+        "id": 782,
+        "riskid": 782,
+        "status": "active",
+        "riskname": "Snow Removal",
+        "lang": "E"
+    },
+    {
+        "id": 474,
+        "riskid": 474,
+        "status": "active",
+        "riskname": "Sociétés holding",
+        "lang": "F"
+    },
+    {
+        "id": 784,
+        "riskid": 784,
+        "status": "active",
+        "riskname": "Soil Preparation Services - Custom Farming",
+        "lang": "E"
+    },
+    {
+        "id": 34,
+        "riskid": 34,
+        "status": "active",
+        "riskname": "Soins animaliers",
+        "lang": "F"
+    },
+    {
+        "id": 919,
+        "riskid": 919,
+        "status": "active",
+        "riskname": "Soudure",
+        "lang": "F"
+    },
+    {
+        "id": 921,
+        "riskid": 921,
+        "status": "active",
+        "riskname": "Soudure- atelier et centre de réparation",
+        "lang": "F"
+    },
+    {
+        "id": 110,
+        "riskid": 110,
+        "status": "active",
+        "riskname": "Soumission- Bris de machines et équipement",
+        "lang": "F"
+    },
+    {
+        "id": 786,
+        "riskid": 786,
+        "status": "active",
+        "riskname": "Souvenir Shops",
+        "lang": "E"
+    },
+    {
+        "id": 788,
+        "riskid": 788,
+        "status": "active",
+        "riskname": "Special Events - See Notes",
+        "lang": "E"
+    },
+    {
+        "id": 790,
+        "riskid": 790,
+        "status": "active",
+        "riskname": "Speech Pathologists or Therapists",
+        "lang": "E"
+    },
+    {
+        "id": 792,
+        "riskid": 792,
+        "status": "active",
+        "riskname": "Sporting Goods Stor Es - Fire Arms",
+        "lang": "E"
+    },
+    {
+        "id": 794,
+        "riskid": 794,
+        "status": "active",
+        "riskname": "Sporting Goods Stor Es - No Fire Arms",
+        "lang": "E"
+    },
+    {
+        "id": 796,
+        "riskid": 796,
+        "status": "active",
+        "riskname": "Staffing Services",
+        "lang": "E"
+    },
+    {
+        "id": 430,
+        "riskid": 430,
+        "status": "active",
+        "riskname": "Station service et postes d`essence",
+        "lang": "F"
+    },
+    {
+        "id": 798,
+        "riskid": 798,
+        "status": "active",
+        "riskname": "Stationary Stor Es",
+        "lang": "E"
+    },
+    {
+        "id": 717,
+        "riskid": 717,
+        "status": "active",
+        "riskname": "Stations de radio- Risque de publicité, libel et diffamatioin exclus",
+        "lang": "F"
+    },
+    {
+        "id": 841,
+        "riskid": 841,
+        "status": "active",
+        "riskname": "Stations de télévision",
+        "lang": "F"
+    },
+    {
+        "id": 765,
+        "riskid": 765,
+        "status": "active",
+        "riskname": "Stations service- assurance auto non disponible",
+        "lang": "F"
+    },
+    {
+        "id": 800,
+        "riskid": 800,
+        "status": "active",
+        "riskname": "Stereo Equipment Stor Es",
+        "lang": "E"
+    },
+    {
+        "id": 802,
+        "riskid": 802,
+        "status": "active",
+        "riskname": "Stevedoring Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 804,
+        "riskid": 804,
+        "status": "active",
+        "riskname": "Stock & Bond Brokers (no crime)",
+        "lang": "E"
+    },
+    {
+        "id": 806,
+        "riskid": 806,
+        "status": "active",
+        "riskname": "Street & Highway Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 808,
+        "riskid": 808,
+        "status": "active",
+        "riskname": "Structural Steel Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 810,
+        "riskid": 810,
+        "status": "active",
+        "riskname": "Structural Steel Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 809,
+        "riskid": 809,
+        "status": "active",
+        "riskname": "Structures d`acier-Contracteurs",
+        "lang": "F"
+    },
+    {
+        "id": 811,
+        "riskid": 811,
+        "status": "active",
+        "riskname": "Structures d`acier-Fabricants",
+        "lang": "F"
+    },
+    {
+        "id": 813,
+        "riskid": 813,
+        "status": "active",
+        "riskname": "Stuc et stucco- contracteurs",
+        "lang": "F"
+    },
+    {
+        "id": 812,
+        "riskid": 812,
+        "status": "active",
+        "riskname": "Stucco Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 814,
+        "riskid": 814,
+        "status": "active",
+        "riskname": "Student Housing",
+        "lang": "E"
+    },
+    {
+        "id": 108,
+        "riskid": 108,
+        "status": "active",
+        "riskname": "Studio de perçage d'or Eilles et de corps- Piercing",
+        "lang": "F"
+    },
+    {
+        "id": 825,
+        "riskid": 825,
+        "status": "active",
+        "riskname": "Studios de bronzage",
+        "lang": "F"
+    },
+    {
+        "id": 678,
+        "riskid": 678,
+        "status": "active",
+        "riskname": "Studios de photographie",
+        "lang": "F"
+    },
+    {
+        "id": 338,
+        "riskid": 338,
+        "status": "active",
+        "riskname": "Studios d`électrolyse",
+        "lang": "F"
+    },
+    {
+        "id": 723,
+        "riskid": 723,
+        "status": "active",
+        "riskname": "Studios d`enregistrement",
+        "lang": "F"
+    },
+    {
+        "id": 454,
+        "riskid": 454,
+        "status": "active",
+        "riskname": "Supermarchés (moins de 7 500 pc)",
+        "lang": "F"
+    },
+    {
+        "id": 817,
+        "riskid": 817,
+        "status": "active",
+        "riskname": "Supermarchés (plus que 7,500 p.c.)",
+        "lang": "F"
+    },
+    {
+        "id": 816,
+        "riskid": 816,
+        "status": "active",
+        "riskname": "Supermarkets - over 7,500 sq. ft.",
+        "lang": "E"
+    },
+    {
+        "id": 818,
+        "riskid": 818,
+        "status": "active",
+        "riskname": "Surveying - Eng. & Arch. Service",
+        "lang": "E"
+    },
+    {
+        "id": 820,
+        "riskid": 820,
+        "status": "active",
+        "riskname": "Swimming Pool Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 822,
+        "riskid": 822,
+        "status": "active",
+        "riskname": "Swimming Pools - Public",
+        "lang": "E"
+    },
+    {
+        "id": 835,
+        "riskid": 835,
+        "status": "active",
+        "riskname": "Systèmes d'intercoms et de téléphonie-equipment-vente en gros",
+        "lang": "F"
+    },
+    {
+        "id": 767,
+        "riskid": 767,
+        "status": "active",
+        "riskname": "Systèmes d`égoûts-contracteurs",
+        "lang": "F"
+    },
+    {
+        "id": 288,
+        "riskid": 288,
+        "status": "active",
+        "riskname": "tablissements diners- théâtre",
+        "lang": "F"
+    },
+    {
+        "id": 824,
+        "riskid": 824,
+        "status": "active",
+        "riskname": "Tanning Salons",
+        "lang": "E"
+    },
+    {
+        "id": 180,
+        "riskid": 180,
+        "status": "active",
+        "riskname": "Tapis et moquette-Grossistes en tapis et moquettes",
+        "lang": "F"
+    },
+    {
+        "id": 182,
+        "riskid": 182,
+        "status": "active",
+        "riskname": "Tapis et moquette-Nettoyeur de tapis et tissus",
+        "lang": "F"
+    },
+    {
+        "id": 176,
+        "riskid": 176,
+        "status": "active",
+        "riskname": "Tapis et moquette-Poseurs de tapis",
+        "lang": "F"
+    },
+    {
+        "id": 178,
+        "riskid": 178,
+        "status": "active",
+        "riskname": "Tapis et moquette-Réparation et entretien de tapis",
+        "lang": "F"
+    },
+    {
+        "id": 174,
+        "riskid": 174,
+        "status": "active",
+        "riskname": "Tapis et moquettes-détaillants",
+        "lang": "F"
+    },
+    {
+        "id": 826,
+        "riskid": 826,
+        "status": "active",
+        "riskname": "Tattoo Studios",
+        "lang": "E"
+    },
+    {
+        "id": 828,
+        "riskid": 828,
+        "status": "active",
+        "riskname": "Taverns & Bars - Max. G/R $1MM-Liquor",
+        "lang": "E"
+    },
+    {
+        "id": 830,
+        "riskid": 830,
+        "status": "active",
+        "riskname": "Taxicab Companies - No Auto",
+        "lang": "E"
+    },
+    {
+        "id": 833,
+        "riskid": 833,
+        "status": "active",
+        "riskname": "Taxidermistes",
+        "lang": "F"
+    },
+    {
+        "id": 832,
+        "riskid": 832,
+        "status": "active",
+        "riskname": "Taxidermists",
+        "lang": "E"
+    },
+    {
+        "id": 654,
+        "riskid": 654,
+        "status": "active",
+        "riskname": "Techniciens juridiques et parajusristes",
+        "lang": "F"
+    },
+    {
+        "id": 834,
+        "riskid": 834,
+        "status": "active",
+        "riskname": "Telephone & Intercom System Wholesalers",
+        "lang": "E"
+    },
+    {
+        "id": 836,
+        "riskid": 836,
+        "status": "active",
+        "riskname": "Telephone Answering Services",
+        "lang": "E"
+    },
+    {
+        "id": 838,
+        "riskid": 838,
+        "status": "active",
+        "riskname": "Television & Radio Stor Es (see crime rules)",
+        "lang": "E"
+    },
+    {
+        "id": 840,
+        "riskid": 840,
+        "status": "active",
+        "riskname": "Television Stations",
+        "lang": "E"
+    },
+    {
+        "id": 842,
+        "riskid": 842,
+        "status": "active",
+        "riskname": "Temporary Staffing Agencies",
+        "lang": "E"
+    },
+    {
+        "id": 844,
+        "riskid": 844,
+        "status": "active",
+        "riskname": "Tennis Instructors or Clubs",
+        "lang": "E"
+    },
+    {
+        "id": 846,
+        "riskid": 846,
+        "status": "active",
+        "riskname": "Tent & Awning Stor Es",
+        "lang": "E"
+    },
+    {
+        "id": 847,
+        "riskid": 847,
+        "status": "active",
+        "riskname": "Tentes, abris et auvents-marchands",
+        "lang": "F"
+    },
+    {
+        "id": 116,
+        "riskid": 116,
+        "status": "active",
+        "riskname": "Tenue de livres-vérification-comptabilité",
+        "lang": "F"
+    },
+    {
+        "id": 154,
+        "riskid": 154,
+        "status": "active",
+        "riskname": "Terrains de camping- Roulottes et motorisés",
+        "lang": "F"
+    },
+    {
+        "id": 848,
+        "riskid": 848,
+        "status": "active",
+        "riskname": "Theaters",
+        "lang": "E"
+    },
+    {
+        "id": 849,
+        "riskid": 849,
+        "status": "active",
+        "riskname": "Théatres",
+        "lang": "F"
+    },
+    {
+        "id": 568,
+        "riskid": 568,
+        "status": "active",
+        "riskname": "Thérapie et consultation familles et couples",
+        "lang": "F"
+    },
+    {
+        "id": 850,
+        "riskid": 850,
+        "status": "active",
+        "riskname": "Tile Manufacturers - Ceramic Wall & Floor",
+        "lang": "E"
+    },
+    {
+        "id": 852,
+        "riskid": 852,
+        "status": "active",
+        "riskname": "Tile Wholesalers",
+        "lang": "E"
+    },
+    {
+        "id": 854,
+        "riskid": 854,
+        "status": "active",
+        "riskname": "Tile, Marble, Mosaic Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 856,
+        "riskid": 856,
+        "status": "active",
+        "riskname": "Tire Dealers",
+        "lang": "E"
+    },
+    {
+        "id": 858,
+        "riskid": 858,
+        "status": "active",
+        "riskname": "Title Abstract Companies",
+        "lang": "E"
+    },
+    {
+        "id": 735,
+        "riskid": 735,
+        "status": "active",
+        "riskname": "Toituriers",
+        "lang": "F"
+    },
+    {
+        "id": 769,
+        "riskid": 769,
+        "status": "active",
+        "riskname": "tôle et ferblanterie-contractteurs",
+        "lang": "F"
+    },
+    {
+        "id": 520,
+        "riskid": 520,
+        "status": "active",
+        "riskname": "Tondeuses à gazon-marchands",
+        "lang": "F"
+    },
+    {
+        "id": 522,
+        "riskid": 522,
+        "status": "active",
+        "riskname": "Tondeuses-réparation et aiguisage",
+        "lang": "F"
+    },
+    {
+        "id": 296,
+        "riskid": 296,
+        "status": "active",
+        "riskname": "Tonte et toilettage pour chiens",
+        "lang": "F"
+    },
+    {
+        "id": 860,
+        "riskid": 860,
+        "status": "active",
+        "riskname": "Tool & Die Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 862,
+        "riskid": 862,
+        "status": "active",
+        "riskname": "Tool Manufacturers - Hand Power Driven",
+        "lang": "E"
+    },
+    {
+        "id": 864,
+        "riskid": 864,
+        "status": "active",
+        "riskname": "Tour Operators",
+        "lang": "E"
+    },
+    {
+        "id": 779,
+        "riskid": 779,
+        "status": "active",
+        "riskname": "Tours et visites guidées -opérateurs",
+        "lang": "F"
+    },
+    {
+        "id": 866,
+        "riskid": 866,
+        "status": "active",
+        "riskname": "Towing Services - Auto",
+        "lang": "E"
+    },
+    {
+        "id": 868,
+        "riskid": 868,
+        "status": "active",
+        "riskname": "Toy & Game Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 873,
+        "riskid": 873,
+        "status": "active",
+        "riskname": "Traducteurs",
+        "lang": "F"
+    },
+    {
+        "id": 870,
+        "riskid": 870,
+        "status": "active",
+        "riskname": "Trailer Home Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 872,
+        "riskid": 872,
+        "status": "active",
+        "riskname": "Translators",
+        "lang": "E"
+    },
+    {
+        "id": 875,
+        "riskid": 875,
+        "status": "active",
+        "riskname": "Transmission automobiles-ateliers réparation",
+        "lang": "F"
+    },
+    {
+        "id": 874,
+        "riskid": 874,
+        "status": "active",
+        "riskname": "Transmission Shops - Auto",
+        "lang": "E"
+    },
+    {
+        "id": 751,
+        "riskid": 751,
+        "status": "active",
+        "riskname": "Transport scolaire- assurance automobile non disponible",
+        "lang": "F"
+    },
+    {
+        "id": 876,
+        "riskid": 876,
+        "status": "active",
+        "riskname": "Transportation / Inland Marine",
+        "lang": "E"
+    },
+    {
+        "id": 526,
+        "riskid": 526,
+        "status": "active",
+        "riskname": "Travaux en cuir-maroquinerie et sacs à main- Ateliers",
+        "lang": "F"
+    },
+    {
+        "id": 878,
+        "riskid": 878,
+        "status": "active",
+        "riskname": "Travel Agencies",
+        "lang": "E"
+    },
+    {
+        "id": 880,
+        "riskid": 880,
+        "status": "active",
+        "riskname": "Tree & Ornamental Shrub Services",
+        "lang": "E"
+    },
+    {
+        "id": 882,
+        "riskid": 882,
+        "status": "active",
+        "riskname": "Trim Sash Door Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 884,
+        "riskid": 884,
+        "status": "active",
+        "riskname": "Truck & Bus Body Manufacturers",
+        "lang": "E"
+    },
+    {
+        "id": 886,
+        "riskid": 886,
+        "status": "active",
+        "riskname": "Truck Dealers - New or Used",
+        "lang": "E"
+    },
+    {
+        "id": 888,
+        "riskid": 888,
+        "status": "active",
+        "riskname": "Truck Repairing & Service (no log or long haul)",
+        "lang": "E"
+    },
+    {
+        "id": 890,
+        "riskid": 890,
+        "status": "active",
+        "riskname": "Trucking",
+        "lang": "E"
+    },
+    {
+        "id": 851,
+        "riskid": 851,
+        "status": "active",
+        "riskname": "Tuile et ceramique-recouvrement de planchers et murs-Fabricants",
+        "lang": "F"
+    },
+    {
+        "id": 855,
+        "riskid": 855,
+        "status": "active",
+        "riskname": "Tuilerie, marbre, mosaique-contracteurs",
+        "lang": "F"
+    },
+    {
+        "id": 859,
+        "riskid": 859,
+        "status": "active",
+        "riskname": "Tuiles abstraites",
+        "lang": "F"
+    },
+    {
+        "id": 853,
+        "riskid": 853,
+        "status": "active",
+        "riskname": "Tuiles- Grossistes",
+        "lang": "F"
+    },
+    {
+        "id": 892,
+        "riskid": 892,
+        "status": "active",
+        "riskname": "U.S. Sales",
+        "lang": "E"
+    },
+    {
+        "id": 894,
+        "riskid": 894,
+        "status": "active",
+        "riskname": "Vacuum Cleaner Wholesalers",
+        "lang": "E"
+    },
+    {
+        "id": 52,
+        "riskid": 52,
+        "status": "active",
+        "riskname": "valuateur d'oeuvres d' art",
+        "lang": "F"
+    },
+    {
+        "id": 896,
+        "riskid": 896,
+        "status": "active",
+        "riskname": "Variety Stor Es",
+        "lang": "E"
+    },
+    {
+        "id": 600,
+        "riskid": 600,
+        "status": "active",
+        "riskname": "Véhicules motorisés-Fabrication",
+        "lang": "F"
+    },
+    {
+        "id": 100,
+        "riskid": 100,
+        "status": "active",
+        "riskname": "Vélos et bicyclettes-Réparation (services de location exclus)",
+        "lang": "F"
+    },
+    {
+        "id": 789,
+        "riskid": 789,
+        "status": "active",
+        "riskname": "vènements spéciaux",
+        "lang": "F"
+    },
+    {
+        "id": 260,
+        "riskid": 260,
+        "status": "active",
+        "riskname": "Vente en gros produits laitiers",
+        "lang": "F"
+    },
+    {
+        "id": 212,
+        "riskid": 212,
+        "status": "active",
+        "riskname": "Vêtements - au detail",
+        "lang": "F"
+    },
+    {
+        "id": 384,
+        "riskid": 384,
+        "status": "active",
+        "riskname": "Viandes,Poissons et fruits de mer- Poissoneries et marchés",
+        "lang": "F"
+    },
+    {
+        "id": 898,
+        "riskid": 898,
+        "status": "active",
+        "riskname": "Videotaping Services",
+        "lang": "E"
+    },
+    {
+        "id": 927,
+        "riskid": 927,
+        "status": "active",
+        "riskname": "Vins et boissons alcoolisées-marchands",
+        "lang": "F"
+    },
+    {
+        "id": 929,
+        "riskid": 929,
+        "status": "active",
+        "riskname": "Vins et spiritueux-fabricants",
+        "lang": "F"
+    },
+    {
+        "id": 540,
+        "riskid": 540,
+        "status": "active",
+        "riskname": "Vins et spiritueux-marchands",
+        "lang": "F"
+    },
+    {
+        "id": 290,
+        "riskid": 290,
+        "status": "active",
+        "riskname": "Vitrines refrigerées- Grossiste",
+        "lang": "F"
+    },
+    {
+        "id": 701,
+        "riskid": 701,
+        "status": "active",
+        "riskname": "Volaille et produits-transformation",
+        "lang": "F"
+    },
+    {
+        "id": 900,
+        "riskid": 900,
+        "status": "active",
+        "riskname": "Washing Machine Repair Services",
+        "lang": "E"
+    },
+    {
+        "id": 902,
+        "riskid": 902,
+        "status": "active",
+        "riskname": "Waste Paper Wholesalers & Recyclers",
+        "lang": "E"
+    },
+    {
+        "id": 904,
+        "riskid": 904,
+        "status": "active",
+        "riskname": "Water Softening Services",
+        "lang": "E"
+    },
+    {
+        "id": 906,
+        "riskid": 906,
+        "status": "active",
+        "riskname": "Waterproofing Contractors",
+        "lang": "E"
+    },
+    {
+        "id": 908,
+        "riskid": 908,
+        "status": "active",
+        "riskname": "Waterworks",
+        "lang": "E"
+    },
+    {
+        "id": 910,
+        "riskid": 910,
+        "status": "active",
+        "riskname": "Weather For Ecast Services (Private)",
+        "lang": "E"
+    },
+    {
+        "id": 912,
+        "riskid": 912,
+        "status": "active",
+        "riskname": "Website Design Firms",
+        "lang": "E"
+    },
+    {
+        "id": 914,
+        "riskid": 914,
+        "status": "active",
+        "riskname": "Wedding Consultants",
+        "lang": "E"
+    },
+    {
+        "id": 916,
+        "riskid": 916,
+        "status": "active",
+        "riskname": "Weight Loss Centres",
+        "lang": "E"
+    },
+    {
+        "id": 918,
+        "riskid": 918,
+        "status": "active",
+        "riskname": "Welding",
+        "lang": "E"
+    },
+    {
+        "id": 920,
+        "riskid": 920,
+        "status": "active",
+        "riskname": "Welding Repair Shop",
+        "lang": "E"
+    },
+    {
+        "id": 922,
+        "riskid": 922,
+        "status": "active",
+        "riskname": "Wig & Hair goods Retailer (no crime)",
+        "lang": "E"
+    },
+    {
+        "id": 924,
+        "riskid": 924,
+        "status": "active",
+        "riskname": "Window Cleaning Services - up to 2 stories",
+        "lang": "E"
+    },
+    {
+        "id": 926,
+        "riskid": 926,
+        "status": "active",
+        "riskname": "Wine & Alcoholic Beverage Dealers",
+        "lang": "E"
+    },
+    {
+        "id": 928,
+        "riskid": 928,
+        "status": "active",
+        "riskname": "Wine & Alcoholic Beverage Manufacturer",
+        "lang": "E"
+    },
+    {
+        "id": 930,
+        "riskid": 930,
+        "status": "active",
+        "riskname": "Wood (Fuel) Dealers Retail",
+        "lang": "E"
+    },
+    {
+        "id": 932,
+        "riskid": 932,
+        "status": "active",
+        "riskname": "Wood Products Manufacturers-NOC",
+        "lang": "E"
+    },
+    {
+        "id": 934,
+        "riskid": 934,
+        "status": "active",
+        "riskname": "World Wide Sales",
+        "lang": "E"
+    },
+    {
+        "id": 936,
+        "riskid": 936,
+        "status": "active",
+        "riskname": "Wrecking & Demolition-(up to 4 stories) Contractors",
+        "lang": "E"
+    }
+]

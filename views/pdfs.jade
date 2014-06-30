@@ -1,0 +1,35 @@
+extends layout
+
+block content
+
+  .container
+    .jumbotron
+      .container
+        form(action="/submit/form", method="post")
+           fieldset(data-role='controlgroup')
+             label(for='searchform')  Enter Search Criteria :
+             input(id='search',type='text',value='',placeholder='Filter Results / Search',name='search')
+             input(id="submit",type="submit",value='Submit')
+        table(class="table table-striped")
+          thead
+            tr              
+              th <span class="label label-info"><a href="#" data-sortby="riskid">Risk ID</a></span>
+              th <span class="label label-info"><a href="#" data-sortby="riskname">Risk Name</a></span>
+              th <span class="label label-info">Status</span>
+              th <span class="label label-info"><a href="#" data-sortby="lang">English / French</a></span>
+          tbody   
+          - var json = pdfs
+          - for(var prop in json)
+            tr              
+              td #{json[prop].riskid}
+              td <a href="/pdfs/#{json[prop].id}" data-findpdfs="riskname">#{json[prop].riskname}</a>
+              td #{json[prop].status}
+              td #{json[prop].lang}
+          - var json2 = pdflist
+          - for(var prop2 in json2)
+            tr
+            td #{json2[prop2].pdf_riskid}
+            td #{json2[prop2].pdf_description}
+            td #{json2[prop2].pdf_risktype}
+            td #{json2[prop2].requiresid}
+
